@@ -3,9 +3,9 @@ body {
 }
 
 @font-face {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   src: url("../fonts/ProximaNova-Bold.eot");
-  src: url("../fonts/ProximaNova-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/ProximaNova-Bold.woff") format("woff"), url("../fonts/ProximaNova-Bold.ttf") format("truetype");
+  src: url("../fonts/ProximaNova-Bold.eot?#iefix") form-at("embedded-opentype"), url("../fonts/ProximaNova-Bold.woff") form-at("woff"), url("../fonts/ProximaNova-Bold.ttf") form-at("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .header a {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -75,7 +75,7 @@ body {
   width: 100%;
   top: 90%;
   left: 50%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
 }
 @media screen and (min-width: 576px) {
   .bg-chair .row {
@@ -91,7 +91,7 @@ body {
   .bg-chair .row {
     position: unset !important;
     max-width: 388px;
-    transform: translateX(0);
+    transform-: translateX(0);
     margin: auto 0;
     margin-left: auto;
     background: rgba(0, 0, 0, 0.36);
@@ -107,7 +107,7 @@ body {
   }
 }
 .bg-chair .row h2 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -123,7 +123,7 @@ body {
   }
 }
 .bg-chair .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -142,12 +142,12 @@ body {
   }
 }
 .bg-chair .row button {
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #040404;
   padding: 14px 40px;
   border: 0;
@@ -180,7 +180,7 @@ body {
 }
 .bg-snow .block h2 {
   text-align: center;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -208,7 +208,7 @@ body {
   }
 }
 .bg-snow .block p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -237,7 +237,7 @@ body {
   }
 }
 .bg-snow .swiper-slide .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -251,7 +251,7 @@ body {
   }
 }
 .bg-snow .swiper-slide .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -279,13 +279,13 @@ body {
   border: 1px solid #FFFFFF;
   width: 535px;
   left: 52%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   top: 85%;
   padding: 30px 0;
   height: 114px;
 }
 .bg-snow .block-big .row .bath .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -294,7 +294,7 @@ body {
   color: #FFFFFF;
 }
 .bg-snow .block-big .row .bath .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -318,13 +318,13 @@ body {
   border: 1px solid #FFFFFF;
   width: 299px;
   left: 52%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   top: 85%;
   padding: 30px 0;
   max-height: 114px;
 }
 .bg-snow .block-big .row .marble .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -333,7 +333,7 @@ body {
   color: #FFFFFF;
 }
 .bg-snow .block-big .row .marble .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -370,13 +370,13 @@ body {
   border: 1px solid #FFFFFF;
   width: 415px;
   left: 56%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   top: 66%;
   padding: 30px 0;
   max-height: 114px;
 }
 .bg-snow .block-big .row .door .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -385,7 +385,7 @@ body {
   color: #FFFFFF;
 }
 .bg-snow .block-big .row .door .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -415,13 +415,13 @@ body {
   border: 1px solid #FFFFFF;
   width: 415px;
   left: 56%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   top: 66%;
   padding: 30px 0;
   max-height: 114px;
 }
 .bg-snow .block-big .row .kitchen .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -430,7 +430,7 @@ body {
   color: #FFFFFF;
 }
 .bg-snow .block-big .row .kitchen .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -492,7 +492,7 @@ body {
   background-size: 12px;
   background-position: center;
   background-color: #FFFFFF;
-  transform: translateY(-50%);
+  transform-: translateY(-50%);
   top: 45%;
 }
 @media screen and (min-width: 992px) {
@@ -513,7 +513,7 @@ body {
 
 .swiper-button-prev {
   left: 0;
-  transform: rotateZ(180deg) translateY(50%);
+  transform-: rotateZ(180deg) translateY(50%);
 }
 
 .bg-room {
@@ -553,7 +553,7 @@ body {
   position: absolute;
   width: 100%;
   left: 50%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   margin-top: -246px;
 }
 @media screen and (min-width: 576px) {
@@ -571,7 +571,7 @@ body {
   .bg-room .row {
     position: unset !important;
     max-width: 388px;
-    transform: translateX(0);
+    transform-: translateX(0);
     margin: auto 0;
     background-color: #F7F7F7;
   }
@@ -584,7 +584,7 @@ body {
   }
 }
 .bg-room .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -600,7 +600,7 @@ body {
   }
 }
 .bg-room .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -616,12 +616,12 @@ body {
   }
 }
 .bg-room .row button {
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #FFFFFF;
   background-color: #111010;
   padding: 14px 40px;
@@ -645,7 +645,7 @@ body {
   }
 }
 .cret h2 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -663,7 +663,7 @@ body {
   }
 }
 .cret p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -700,12 +700,12 @@ body {
   width: 100%;
 }
 .cret button {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 19px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #FFFFFF;
   padding: 16px 44px;
   border: 0;
@@ -722,11 +722,11 @@ body {
   position: absolute;
   top: 100%;
   left: 90%;
-  transform: translate(-90%, -100%);
+  transform-: translate(-90%, -100%);
 }
 .cret .play-small h3 {
   margin-bottom: 0;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -735,7 +735,7 @@ body {
 }
 .cret .play-small p {
   margin-bottom: 0;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -770,7 +770,7 @@ body {
   background-size: 12px;
   background-position: center;
   background-color: #FFFFFF;
-  transform: translateY(0);
+  transform-: translateY(0);
   top: 50%;
 }
 @media screen and (min-width: 992px) {
@@ -786,7 +786,7 @@ body {
 }
 .cret .swiper-button-prev {
   left: 0;
-  transform: rotateZ(180deg) translateY(0);
+  transform-: rotateZ(180deg) translateY(0);
 }
 
 .project {
@@ -799,7 +799,7 @@ body {
 }
 .project h2 {
   text-align: center;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -827,7 +827,7 @@ body {
   }
 }
 .project p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -843,12 +843,12 @@ body {
   }
 }
 .project button {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 16px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #FFFFFF;
   padding: 14px 40px;
   border: 0;
@@ -867,7 +867,7 @@ body {
   }
 }
 .project .swiper-slide h4 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 26px;
@@ -876,7 +876,7 @@ body {
   color: #111010;
 }
 .project .swiper-slide p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -921,7 +921,7 @@ body {
 .project .block-ds h4 {
   max-width: 333px;
   padding: 0;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 26px;
@@ -933,7 +933,7 @@ body {
 .project .block-ds p {
   max-width: 333px;
   padding: 0;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -948,12 +948,12 @@ body {
   margin-top: 120px;
 }
 .ds button {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 19px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #FFFFFF;
   padding: 18px 34px;
   max-height: 52px;
@@ -963,7 +963,7 @@ body {
 }
 .ds .block-1 h2 {
   text-align: center;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
@@ -978,7 +978,7 @@ body {
   margin: auto;
 }
 .ds .block-1 p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -994,8 +994,8 @@ body {
   border-width: 0 1.5px 1.5px 0;
   display: inline-block;
   padding: 3px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
+  transform-: rotate(45deg);
+  -webkit-transform-: rotate(45deg);
   margin-left: 3px;
   margin-bottom: 2px;
 }
@@ -1021,7 +1021,7 @@ body {
   margin-top: 12px;
 }
 .ds .block-ds .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 26px;
@@ -1030,7 +1030,7 @@ body {
   color: #111010;
 }
 .ds .block-ds .row span {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1044,7 +1044,7 @@ body {
 }
 .ds .block-ds .row p {
   padding: 0 !important;
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -1094,7 +1094,7 @@ body {
   position: absolute;
   width: 100%;
   left: 50%;
-  transform: translateX(-50%);
+  transform-: translateX(-50%);
   margin-top: -236px;
 }
 @media screen and (min-width: 576px) {
@@ -1111,7 +1111,7 @@ body {
 @media screen and (min-width: 992px) {
   .bg-show .container .row {
     position: unset !important;
-    transform: translateX(0);
+    transform-: translateX(0);
     max-width: 692px;
     margin: auto 0;
     background-color: #F7F7F7;
@@ -1122,7 +1122,7 @@ body {
   }
 }
 .bg-show .container .row h3 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -1138,7 +1138,7 @@ body {
   }
 }
 .bg-show .container .row p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -1154,12 +1154,12 @@ body {
   }
 }
 .bg-show .container .row button {
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   color: #FFFFFF;
   background-color: #111010;
   padding: 14px 40px;
@@ -1218,7 +1218,7 @@ body {
 }
 .footer .container .row p,
 .footer .container .row span {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 9px;
@@ -1241,12 +1241,12 @@ body {
   background-position: center;
 }
 .bg-kitchen h1 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 22px;
-  text-transform: uppercase;
+  text-transform-: uppercase;
   margin-top: 227px;
   color: #E4E4E4;
 }
@@ -1259,7 +1259,7 @@ body {
   }
 }
 .bg-kitchen p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -1291,7 +1291,7 @@ body {
   max-height: 401px;
 }
 .cote .row .block span {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1300,7 +1300,7 @@ body {
   margin-bottom: 14px;
 }
 .cote .row .block h2 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 25px;
@@ -1309,7 +1309,7 @@ body {
   margin-bottom: 24px;
 }
 .cote .row .block p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -1323,7 +1323,7 @@ body {
   background-image: url(../img/catalog-1.png);
 }
 .cote .row .block-1 span {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1332,7 +1332,7 @@ body {
   margin-bottom: 6px;
 }
 .cote .row .block-1 h2 {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 25px;
@@ -1341,7 +1341,7 @@ body {
   margin-bottom: 6px;
 }
 .cote .row .block-1 p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -1378,7 +1378,7 @@ body {
   margin-bottom: 10px;
 }
 .banner .container .block p {
-  font-family: "Proxima Nova Bold";
+  font-family: "Proxima Nova Bold Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -1415,7 +1415,7 @@ body {
   content: "";
   border-bottom: 1.5px solid white;
   border-right: 1.5px solid white;
-  transform: rotateZ(315deg);
+  transform-: rotateZ(315deg);
   display: inline-block;
   width: 8px;
   height: 8px;
@@ -1469,9 +1469,6 @@ body {
   filter: brightness(1);
   cursor: pointer;
 }
-.product .product--block--dfl .product--block--dfl-block-1 .product--block--img1:hover {
-  filter: brightness(0.5);
-}
 @media screen and (min-width: 576px) {
   .product .product--block--dfl .product--block--dfl-block-1 .product--block--img1 {
     display: block;
@@ -1521,9 +1518,6 @@ body {
   filter: brightness(1);
   cursor: pointer;
 }
-.product .product--block--dfl .product--block--dfl-block-1 .product--block--dfl--cont .product--block--img2:hover {
-  filter: brightness(0.5);
-}
 .product .product--block--dfl .product--block--dfl-block-1 .product--block--dfl--cont .product--block--img3 {
   max-width: 159px;
   width: 100%;
@@ -1532,9 +1526,6 @@ body {
   filter: brightness(1);
   cursor: pointer;
 }
-.product .product--block--dfl .product--block--dfl-block-1 .product--block--dfl--cont .product--block--img3:hover {
-  filter: brightness(0.5);
-}
 .product .product--block--dfl .product--block--dfl-block-1 .product--block--dfl--cont .product--block--img4 {
   max-width: 159px;
   width: 100%;
@@ -1542,9 +1533,6 @@ body {
   height: 100%;
   filter: brightness(1);
   cursor: pointer;
-}
-.product .product--block--dfl .product--block--dfl-block-1 .product--block--dfl--cont .product--block--img4:hover {
-  filter: brightness(0.5);
 }
 .product .product--block--dfl .product--block--dfl-block-2 {
   padding: 0 20px;
@@ -1565,7 +1553,7 @@ body {
   }
 }
 .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--title {
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -1575,7 +1563,7 @@ body {
 }
 @media screen and (min-width: 576px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--title {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 28px;
@@ -1585,7 +1573,7 @@ body {
 }
 @media screen and (min-width: 767px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--title {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
@@ -1597,7 +1585,7 @@ body {
 @media screen and (min-width: 991px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--title {
     padding-top: 15px;
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -1607,7 +1595,7 @@ body {
 }
 @media screen and (min-width: 1200px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--title {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 48px;
@@ -1657,7 +1645,7 @@ body {
   }
 }
 .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--text {
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1667,7 +1655,7 @@ body {
 }
 @media screen and (min-width: 576px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--text {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1677,7 +1665,7 @@ body {
 }
 @media screen and (min-width: 767px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--text {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -1688,7 +1676,7 @@ body {
 }
 @media screen and (min-width: 991px) {
   .product .product--block--dfl .product--block--dfl-block-2 .product--block--item1 .product--block--text {
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -1946,7 +1934,7 @@ body {
 .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 {
   padding-top: 19px;
 }
-.product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child {
+.product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block- {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -1955,7 +1943,7 @@ body {
   color: #000000;
 }
 @media screen and (min-width: 576px) {
-  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child {
+  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block- {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
@@ -1965,7 +1953,7 @@ body {
   }
 }
 @media screen and (min-width: 767px) {
-  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child {
+  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block- {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
@@ -1974,7 +1962,7 @@ body {
     color: #000000;
   }
 }
-.product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child::before {
+.product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block-::before {
   content: "";
   display: inline-block;
   width: 8px;
@@ -1986,17 +1974,17 @@ body {
   margin-bottom: 1px;
 }
 @media screen and (min-width: 576px) {
-  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child::before {
+  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block-::before {
     margin-right: 10px;
   }
 }
 @media screen and (min-width: 767px) {
-  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-child::before {
+  .product .product--block--dfl .product--block--dfl-block-2 .product--block--item3 .product--block--list .product--block--list-block-::before {
     margin-right: 14px;
   }
 }
 
-.product-child {
+.product-block- {
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -2203,12 +2191,12 @@ body {
   text-align: center;
 }
 
-.choise {
+.shop {
   max-width: 1440px;
   margin: auto;
 }
 
-.choise--block__grid {
+.shop--block-grid {
   margin-top: -26px;
   padding-bottom: 24px;
   max-width: 968px;
@@ -2222,23 +2210,23 @@ body {
   background-color: #fafafa;
 }
 @media screen and (min-width: 576px) {
-  .choise--block__grid {
+  .shop--block-grid {
     margin-top: -21px;
   }
 }
 @media screen and (min-width: 767px) {
-  .choise--block__grid {
+  .shop--block-grid {
     margin-top: -31px;
   }
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid {
+  .shop--block-grid {
     margin-top: -30px;
     padding-bottom: 46px;
   }
 }
 @media screen and (min-width: 1200px) {
-  .choise--block__grid {
+  .shop--block-grid {
     max-width: 748px;
     margin-top: -30px;
     padding-bottom: 66px;
@@ -2247,191 +2235,191 @@ body {
   }
 }
 @media screen and (min-width: 1300px) {
-  .choise--block__grid {
+  .shop--block-grid {
     max-width: 818px;
   }
 }
 @media screen and (min-width: 1400px) {
-  .choise--block__grid {
+  .shop--block-grid {
     max-width: 948px;
   }
 }
 @media screen and (min-width: 1440px) {
-  .choise--block__grid {
+  .shop--block-grid {
     max-width: 968px;
   }
 }
-.choise--block__grid .choise--block__grid-child1 {
+.shop--block-grid .shop--block-grid-block-1 {
   grid-area: 1/3/2/4;
   padding-top: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child1 {
+  .shop--block-grid .shop--block-grid-block-1 {
     padding-top: 25px;
   }
 }
-.choise--block__grid .choise--block__grid-child2 {
+.shop--block-grid .shop--block-grid-block-2 {
   grid-area: 1/4/2/5;
   padding-top: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child2 {
+  .shop--block-grid .shop--block-grid-block-2 {
     padding-top: 25px;
   }
 }
-.choise--block__grid .choise--block__grid-child3 {
+.shop--block-grid .shop--block-grid-block-3 {
   grid-area: 1/5/2/6;
   padding-top: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child3 {
+  .shop--block-grid .shop--block-grid-block-3 {
     padding-top: 25px;
   }
 }
-.choise--block__grid .choise--block__grid-child4 {
+.shop--block-grid .shop--block-grid-block-4 {
   grid-area: 3/1/4/2;
   padding-left: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child4 {
+  .shop--block-grid .shop--block-grid-block-4 {
     padding-left: 31px;
   }
 }
-.choise--block__grid .choise--block__grid-child5 {
+.shop--block-grid .shop--block-grid-block-5 {
   grid-area: 3/2/4/3;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child6 {
+.shop--block-grid .shop--block-grid-block-6 {
   grid-area: 3/3/4/4;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child7 {
+.shop--block-grid .shop--block-grid-block-7 {
   grid-area: 3/4/4/5;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child8 {
+.shop--block-grid .shop--block-grid-block-8 {
   grid-area: 3/5/4/6;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child9 {
+.shop--block-grid .shop--block-grid-block-9 {
   grid-area: 3/6/4/7;
   margin: auto;
   padding-right: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child9 {
+  .shop--block-grid .shop--block-grid-block-9 {
     padding-right: 36px;
   }
 }
-.choise--block__grid .choise--block__grid-child10 {
+.shop--block-grid .shop--block-grid-block-10 {
   grid-area: 5/1/6/2;
   padding-left: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child10 {
+  .shop--block-grid .shop--block-grid-block-10 {
     padding-left: 31px;
   }
 }
-.choise--block__grid .choise--block__grid-child11 {
+.shop--block-grid .shop--block-grid-block-11 {
   grid-area: 5/2/6/3;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child12 {
+.shop--block-grid .shop--block-grid-block-12 {
   grid-area: 5/3/6/4;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child13 {
+.shop--block-grid .shop--block-grid-block-13 {
   grid-area: 5/4/6/5;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child14 {
+.shop--block-grid .shop--block-grid-block-14 {
   grid-area: 5/5/6/6;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child15 {
+.shop--block-grid .shop--block-grid-block-15 {
   margin: auto;
   grid-area: 5/6/6/7;
   padding-right: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child15 {
+  .shop--block-grid .shop--block-grid-block-15 {
     padding-right: 36px;
   }
 }
-.choise--block__grid .choise--block__grid-child16 {
+.shop--block-grid .shop--block-grid-block-16 {
   grid-area: 7/1/8/2;
   padding-left: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child16 {
+  .shop--block-grid .shop--block-grid-block-16 {
     padding-left: 31px;
   }
 }
-.choise--block__grid .choise--block__grid-child17 {
+.shop--block-grid .shop--block-grid-block-17 {
   grid-area: 7/2/8/3;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child18 {
+.shop--block-grid .shop--block-grid-block-18 {
   grid-area: 7/3/8/4;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child19 {
+.shop--block-grid .shop--block-grid-block-19 {
   grid-area: 7/4/8/5;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child20 {
+.shop--block-grid .shop--block-grid-block-20 {
   grid-area: 7/5/8/6;
   margin: auto;
 }
-.choise--block__grid .choise--block__grid-child21 {
+.shop--block-grid .shop--block-grid-block-21 {
   grid-area: 7/6/8/7;
   padding-right: 10px;
   margin: auto;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child21 {
+  .shop--block-grid .shop--block-grid-block-21 {
     padding-right: 36px;
   }
 }
-.choise--block__grid .choise--block__grid-child22 {
+.shop--block-grid .shop--block-grid-block-22 {
   grid-area: 2/1/3/7;
   border: 2px solid #ffffff;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child22 {
+  .shop--block-grid .shop--block-grid-block-22 {
     margin-top: 17px;
     margin-bottom: 30px;
   }
 }
-.choise--block__grid .choise--block__grid-child23 {
+.shop--block-grid .shop--block-grid-block-23 {
   grid-area: 4/1/5/7;
   border: 2px solid #ffffff;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child23 {
+  .shop--block-grid .shop--block-grid-block-23 {
     margin-top: 33px;
     margin-bottom: 33px;
   }
 }
-.choise--block__grid .choise--block__grid-child24 {
+.shop--block-grid .shop--block-grid-block-24 {
   grid-area: 6/1/7/7;
   border: 2px solid #ffffff;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid .choise--block__grid-child24 {
+  .shop--block-grid .shop--block-grid-block-24 {
     margin-top: 33px;
     margin-bottom: 33px;
   }
 }
 
-.choise--block__grid-span {
-  font-family: "Proxima Nova";
+.shop--block-grid-span {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -2440,8 +2428,8 @@ body {
   text-align: center;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-span {
-    font-family: "Proxima Nova";
+  .shop--block-grid-span {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2450,8 +2438,8 @@ body {
   }
 }
 
-.choise--block__grid-title {
-  font-family: "Proxima Nova";
+.shop--block-grid-title {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -2460,8 +2448,8 @@ body {
   padding-bottom: 11px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-title {
-    font-family: "Proxima Nova";
+  .shop--block-grid-title {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -2470,8 +2458,8 @@ body {
   }
 }
 
-.choise--block__grid-text {
-  font-family: "Proxima Nova";
+.shop--block-grid-text {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -2479,8 +2467,8 @@ body {
   color: #a2a2a2;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-text {
-    font-family: "Proxima Nova";
+  .shop--block-grid-text {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2489,12 +2477,12 @@ body {
   }
 }
 
-.choise--block__grid--item {
+.shop--block-grid--item {
   display: inline-block;
 }
 
-.choise--block__grid-price {
-  font-family: "Proxima Nova";
+.shop--block-grid-price {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -2504,8 +2492,8 @@ body {
   display: block;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-price {
-    font-family: "Proxima Nova";
+  .shop--block-grid-price {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -2514,88 +2502,30 @@ body {
   }
 }
 
-.choise--block__svg-hover:hover {
-  filter: invert(0.5);
-}
-
-.choise--block__grid-btn1 {
+.shop--block-grid-btn1 {
   border: 1px solid black;
   transition: all 0.3s;
   position: relative;
   overflow: hidden;
   z-index: 1;
 }
-.choise--block__grid-btn1::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #ffffff;
-  z-index: -2;
-}
-.choise--block__grid-btn1::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background-color: #b3b3b3;
-  transition: all 0.3s;
-  z-index: -1;
-}
-.choise--block__grid-btn1:hover {
-  color: #fff;
-}
-.choise--block__grid-btn1:hover::before {
-  width: 100%;
-}
 
-.choise--block__grid-btn2 {
+.shop--block-grid-btn2 {
   border: 1px solid black;
   transition: all 0.3s;
   position: relative;
   overflow: hidden;
   z-index: 1;
 }
-.choise--block__grid-btn2::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #ffffff;
-  z-index: -2;
-}
-.choise--block__grid-btn2::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background-color: #b3b3b3;
-  transition: all 0.3s;
-  z-index: -1;
-}
-.choise--block__grid-btn2:hover {
-  color: #fff;
-}
-.choise--block__grid-btn2:hover::before {
-  width: 100%;
-}
 
-.choise--block__grid-svg1 {
+.shop--block-grid-svg1 {
   margin-bottom: 5px;
   margin-right: 4px;
   margin-left: 4px;
   margin-top: 10px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-svg1 {
+  .shop--block-grid-svg1 {
     margin-bottom: 6px;
     margin-right: 7px;
     margin-left: 7px;
@@ -2603,14 +2533,14 @@ body {
   }
 }
 
-.choise--block__grid-svg2 {
+.shop--block-grid-svg2 {
   margin-left: 4px;
   margin-right: 4px;
   margin-top: 4px;
   margin-bottom: 1px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid-svg2 {
+  .shop--block-grid-svg2 {
     margin-left: 7px;
     margin-right: 7px;
     margin-top: 7px;
@@ -2618,7 +2548,7 @@ body {
   }
 }
 
-.choise--block__grid--quan {
+.shop--block-grid--quan {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -2629,7 +2559,7 @@ body {
   padding-right: 5px;
 }
 @media screen and (min-width: 991px) {
-  .choise--block__grid--quan {
+  .shop--block-grid--quan {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
@@ -2642,12 +2572,12 @@ body {
 }
 
 @media screen and (min-width: 1200px) {
-  .choise--contain {
+  .shop--contain {
     position: relative;
   }
 }
 
-.choise--dropdown {
+.shop--dropdown {
   max-width: 422px;
   margin-left: 20px;
   margin-right: 20px;
@@ -2657,12 +2587,12 @@ body {
   margin-bottom: 25px;
 }
 @media screen and (min-width: 374px) {
-  .choise--dropdown {
+  .shop--dropdown {
     padding-bottom: 30px;
   }
 }
 @media screen and (min-width: 425px) {
-  .choise--dropdown {
+  .shop--dropdown {
     margin-left: 0;
     margin-right: 0;
     margin: auto;
@@ -2671,42 +2601,40 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .choise--dropdown {
+  .shop--dropdown {
     margin-bottom: 70px;
     margin-top: 70px;
   }
 }
 @media screen and (min-width: 1200px) {
-  .choise--dropdown {
-    position: absolute;
+  .shop--dropdown {
     top: -69px;
     left: 778px;
   }
 }
 @media screen and (min-width: 1300px) {
-  .choise--dropdown {
+  .shop--dropdown {
     left: 878px;
   }
 }
 @media screen and (min-width: 1400px) {
-  .choise--dropdown {
+  .shop--dropdown {
     left: 976px;
   }
 }
 @media screen and (min-width: 1440px) {
-  .choise--dropdown {
+  .shop--dropdown {
     left: 1000px;
   }
 }
 
-.dropdown-choise {
+.dropdown-shop {
   display: block;
-  position: relative;
   cursor: pointer;
 }
-.dropdown-choise label {
+.dropdown-shop label {
   display: block;
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
@@ -2716,8 +2644,8 @@ body {
   padding-top: 20px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise label {
-    font-family: "Proxima Nova";
+  .dropdown-shop label {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -2728,8 +2656,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise label {
-    font-family: "Proxima Nova";
+  .dropdown-shop label {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2738,8 +2666,8 @@ body {
     padding-left: 24px;
   }
 }
-.dropdown-choise label .choise-dropdown__subtext {
-  font-family: "Proxima Nova";
+.dropdown-shop label .shop-dropdown-subtext {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
@@ -2748,8 +2676,8 @@ body {
   padding-left: 9px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise label .choise-dropdown__subtext {
-    font-family: "Proxima Nova";
+  .dropdown-shop label .shop-dropdown-subtext {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 15px;
@@ -2757,46 +2685,46 @@ body {
     color: #a7a7a7;
   }
 }
-.dropdown-choise label .choise-dropdown__subtext::after {
+.dropdown-shop label .shop-dropdown-subtext::after {
   content: "";
   width: 11px;
   height: 11px;
   display: inline-block;
   border-bottom: 1.5px solid #000000;
   border-right: 1.5px solid #000000;
-  transform: rotateZ(45deg);
+  transform-: rotateZ(45deg);
   transition: all 0.3s;
   margin-top: -3px;
   margin-left: 23px;
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise label .choise-dropdown__subtext::after {
+  .dropdown-shop label .shop-dropdown-subtext::after {
     margin-left: 61px;
   }
 }
-.dropdown-choise #dropdown-choise {
+.dropdown-shop #dropdown-shop {
   display: none;
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list {
   display: block;
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
   margin-left: 9px;
   margin-top: 15px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
     margin-left: 15px;
     margin-top: 28px;
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
     margin-left: 24px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__input {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
@@ -2807,8 +2735,8 @@ body {
   width: 125px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__input {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -2819,10 +2747,10 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__input {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
     width: 182px;
     padding: 14px 10px 15px 23px;
-    font-family: "Proxima Nova";
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2830,8 +2758,8 @@ body {
     color: #151515;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
@@ -2845,36 +2773,9 @@ body {
   overflow: hidden;
   z-index: 1;
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #000000;
-  z-index: -2;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background-color: #343434;
-  transition: all 0.3s;
-  z-index: -1;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2:hover {
-  color: #fff;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2:hover::before {
-  width: 100%;
-}
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -2884,8 +2785,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item .dropdown-choise-list__btn2 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2895,31 +2796,31 @@ body {
     margin-left: 16px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__brbt {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt {
   border: 1px solid rgba(222, 222, 222, 0.1);
   margin-top: 15px;
   margin-bottom: 10px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__brbt {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt {
     margin-top: 23px;
     margin-bottom: 15px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
   margin-left: 9px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
     margin-left: 15px;
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
     margin-left: 24px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text1 {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -2930,7 +2831,7 @@ body {
   padding-right: 110px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text1 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
@@ -2941,7 +2842,7 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text1 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
@@ -2951,8 +2852,8 @@ body {
     padding-right: 177px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text2 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -2961,8 +2862,8 @@ body {
   text-align: right;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text2 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2971,8 +2872,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text2 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -2980,8 +2881,8 @@ body {
     color: #151515;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text3 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -2991,8 +2892,8 @@ body {
   padding-right: 157px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text3 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -3002,12 +2903,12 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text3 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
     padding-right: 247px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text4 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text4 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -3016,8 +2917,8 @@ body {
   text-align: right;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item2 .dropdown-choise-list__text4 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text4 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -3025,32 +2926,32 @@ body {
     color: #a7a7a7;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__brbt1 {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt1 {
   border: 1px solid rgba(222, 222, 222, 0.1);
   margin-top: 20px;
   margin-bottom: 15px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__brbt1 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt1 {
     margin-top: 27px;
     margin-bottom: 22px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 {
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
   margin-left: 9px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
     margin-left: 15px;
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
     margin-left: 24px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price1 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -3059,8 +2960,8 @@ body {
   display: inline-block;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price1 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -3069,8 +2970,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price1 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -3078,8 +2979,8 @@ body {
     color: #151515;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price2 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -3089,8 +2990,8 @@ body {
   padding-right: 50px;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price2 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -3100,12 +3001,12 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price2 {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
     padding-right: 112px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price3 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -3114,8 +3015,8 @@ body {
   text-align: right;
 }
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price3 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -3124,8 +3025,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__item3 .dropdown-choise-list__price3 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -3133,8 +3034,8 @@ body {
     color: #151515;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3 {
-  font-family: "Proxima Nova";
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+  font-family: "Proxima Nova Bold";
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
@@ -3149,36 +3050,9 @@ body {
   overflow: hidden;
   z-index: 1;
 }
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #000000;
-  z-index: -2;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background-color: #343434;
-  transition: all 0.3s;
-  z-index: -1;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3:hover {
-  color: #fff;
-}
-.dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3:hover::before {
-  width: 100%;
-}
 @media screen and (min-width: 374px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -3189,8 +3063,8 @@ body {
   }
 }
 @media screen and (min-width: 425px) {
-  .dropdown-choise #dropdown-choise:checked ~ .dropdown-choise-list .dropdown-choise-list__btn3 {
-    font-family: "Proxima Nova";
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+    font-family: "Proxima Nova Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -3200,10 +3074,2014 @@ body {
     margin-left: 24px;
   }
 }
-.dropdown-choise #dropdown-choise:checked ~ label b::after {
-  transform: rotateZ(-135deg);
+.dropdown-shop #dropdown-shop:checked ~ label b::after {
+  transform-: rotateZ(-135deg);
   margin-bottom: -4px;
 }
-.dropdown-choise-list {
+.dropdown-shop-list {
   display: none;
+}
+
+.cart {
+  background-color: rgba(196, 196, 196, 0.1);
+}
+.cart .cart--bcg {
+  height: 80px;
+}
+@media screen and (min-width: 576px) {
+  .cart .cart--bcg {
+    height: 100px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .cart .cart--bcg {
+    height: 120px;
+  }
+}
+@media screen and (min-width: 991px) {
+  .cart .cart--bcg {
+    height: 149px;
+  }
+}
+.cart .cart--item {
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  top: -60px;
+  max-width: 1440px;
+  margin: auto;
+}
+@media screen and (min-width: 576px) {
+  .cart .cart--item {
+    top: -70px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .cart .cart--item {
+    top: -82px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media screen and (min-width: 991px) {
+  .cart .cart--item {
+    top: -111px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .cart .cart--item {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .cart .cart--item {
+    padding-left: 85px;
+    padding-right: 120px;
+  }
+}
+.cart .cart--item .cart-title {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #151515;
+  padding-bottom: 10px;
+}
+@media screen and (min-width: 576px) {
+  .cart .cart--item .cart-title {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    color: #151515;
+  }
+}
+@media screen and (min-width: 767px) {
+  .cart .cart--item .cart-title {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    color: #151515;
+  }
+}
+@media screen and (min-width: 991px) {
+  .cart .cart--item .cart-title {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    color: #151515;
+  }
+}
+.cart .cart--item .cart--block .cart-svg {
+  margin-bottom: -3px;
+}
+.cart .cart--item .cart--block .cart-text {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #151515;
+  display: inline-block;
+  padding-left: 4px;
+}
+@media screen and (min-width: 576px) {
+  .cart .cart--item .cart--block .cart-text {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #151515;
+    padding-left: 8px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .cart .cart--item .cart--block .cart-text {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: #151515;
+  }
+}
+
+.shop {
+  max-width: 1440px;
+  margin: auto;
+}
+
+.shop--block-grid {
+  margin-top: -26px;
+  padding-bottom: 24px;
+  max-width: 968px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: grid;
+  grid-template-columns: 0.1fr repeat(2, 0.3fr) 0.4fr 0.3fr 0.1fr;
+  grid-template-rows: 0.3fr 0.02fr 1fr 0.02fr 1fr 0.02fr 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: #fafafa;
+}
+@media screen and (min-width: 576px) {
+  .shop--block-grid {
+    margin-top: -21px;
+  }
+}
+@media screen and (min-width: 767px) {
+  .shop--block-grid {
+    margin-top: -31px;
+  }
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid {
+    margin-top: -30px;
+    padding-bottom: 46px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .shop--block-grid {
+    max-width: 748px;
+    margin-top: -30px;
+    padding-bottom: 66px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .shop--block-grid {
+    max-width: 818px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .shop--block-grid {
+    max-width: 948px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .shop--block-grid {
+    max-width: 968px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-1 {
+  grid-area: 1/3/2/4;
+  padding-top: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-1 {
+    padding-top: 25px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-2 {
+  grid-area: 1/4/2/5;
+  padding-top: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-2 {
+    padding-top: 25px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-3 {
+  grid-area: 1/5/2/6;
+  padding-top: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-3 {
+    padding-top: 25px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-4 {
+  grid-area: 3/1/4/2;
+  padding-left: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-4 {
+    padding-left: 31px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-5 {
+  grid-area: 3/2/4/3;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-6 {
+  grid-area: 3/3/4/4;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-7 {
+  grid-area: 3/4/4/5;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-8 {
+  grid-area: 3/5/4/6;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-9 {
+  grid-area: 3/6/4/7;
+  margin: auto;
+  padding-right: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-9 {
+    padding-right: 36px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-10 {
+  grid-area: 5/1/6/2;
+  padding-left: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-10 {
+    padding-left: 31px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-11 {
+  grid-area: 5/2/6/3;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-12 {
+  grid-area: 5/3/6/4;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-13 {
+  grid-area: 5/4/6/5;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-14 {
+  grid-area: 5/5/6/6;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-15 {
+  margin: auto;
+  grid-area: 5/6/6/7;
+  padding-right: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-15 {
+    padding-right: 36px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-16 {
+  grid-area: 7/1/8/2;
+  padding-left: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-16 {
+    padding-left: 31px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-17 {
+  grid-area: 7/2/8/3;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-18 {
+  grid-area: 7/3/8/4;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-19 {
+  grid-area: 7/4/8/5;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-20 {
+  grid-area: 7/5/8/6;
+  margin: auto;
+}
+.shop--block-grid .shop--block-grid-block-21 {
+  grid-area: 7/6/8/7;
+  padding-right: 10px;
+  margin: auto;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-21 {
+    padding-right: 36px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-22 {
+  grid-area: 2/1/3/7;
+  border: 2px solid #ffffff;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-22 {
+    margin-top: 17px;
+    margin-bottom: 30px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-23 {
+  grid-area: 4/1/5/7;
+  border: 2px solid #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-23 {
+    margin-top: 33px;
+    margin-bottom: 33px;
+  }
+}
+.shop--block-grid .shop--block-grid-block-24 {
+  grid-area: 6/1/7/7;
+  border: 2px solid #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid .shop--block-grid-block-24 {
+    margin-top: 33px;
+    margin-bottom: 33px;
+  }
+}
+
+.shop--block-grid-span {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #151515;
+  text-align: center;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-span {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #151515;
+  }
+}
+
+.shop--block-grid-title {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #151515;
+  padding-bottom: 11px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-title {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #151515;
+  }
+}
+
+.shop--block-grid-text {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #a2a2a2;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-text {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #a2a2a2;
+  }
+}
+
+.shop--block-grid--item {
+  display: inline-block;
+}
+
+.shop--block-grid-price {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #151515;
+  text-align: center;
+  display: block;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-price {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #151515;
+  }
+}
+
+.shop--block-grid-btn1 {
+  border: 1px solid black;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.shop--block-grid-btn2 {
+  border: 1px solid black;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.shop--block-grid-svg1 {
+  margin-bottom: 5px;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-top: 10px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-svg1 {
+    margin-bottom: 6px;
+    margin-right: 7px;
+    margin-left: 7px;
+    margin-top: 13px;
+  }
+}
+
+.shop--block-grid-svg2 {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 4px;
+  margin-bottom: 1px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid-svg2 {
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 3px;
+  }
+}
+
+.shop--block-grid--quan {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #151515;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+@media screen and (min-width: 991px) {
+  .shop--block-grid--quan {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #151515;
+    padding-left: 21px;
+    padding-right: 21px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .shop--contain {
+    position: relative;
+  }
+}
+
+.shop--dropdown {
+  max-width: 422px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #fafafa;
+  padding-bottom: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+@media screen and (min-width: 374px) {
+  .shop--dropdown {
+    padding-bottom: 30px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .shop--dropdown {
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .shop--dropdown {
+    margin-bottom: 70px;
+    margin-top: 70px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .shop--dropdown {
+    top: -69px;
+    left: 778px;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .shop--dropdown {
+    left: 878px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .shop--dropdown {
+    left: 976px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .shop--dropdown {
+    left: 1000px;
+  }
+}
+
+.dropdown-shop {
+  display: block;
+  position: relative;
+  cursor: pointer;
+}
+.dropdown-shop label {
+  display: block;
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 15px;
+  color: #151515;
+  padding-left: 9px;
+  padding-top: 20px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop label {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #151515;
+    padding-left: 15px;
+    padding-top: 30px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop label {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #151515;
+    padding-left: 24px;
+  }
+}
+.dropdown-shop label .shop-dropdown-subtext {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 12px;
+  color: #a7a7a7;
+  padding-left: 9px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop label .shop-dropdown-subtext {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    color: #a7a7a7;
+  }
+}
+.dropdown-shop label .shop-dropdown-subtext::after {
+  content: "";
+  width: 11px;
+  height: 11px;
+  display: inline-block;
+  border-bottom: 1.5px solid #000000;
+  border-right: 1.5px solid #000000;
+  transform-: rotateZ(45deg);
+  transition: all 0.3s;
+  margin-top: -3px;
+  margin-left: 23px;
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop label .shop-dropdown-subtext::after {
+    margin-left: 61px;
+  }
+}
+.dropdown-shop #dropdown-shop {
+  display: none;
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list {
+  display: block;
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
+  margin-left: 9px;
+  margin-top: 15px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
+    margin-left: 15px;
+    margin-top: 28px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item {
+    margin-left: 24px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 15px;
+  color: #151515;
+  border: 1px solid #000000;
+  padding: 3px 5px 3px 9px;
+  width: 125px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #151515;
+    padding: 8px 5px 9px 11px;
+    width: 140px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-input {
+    width: 182px;
+    padding: 14px 10px 15px 23px;
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #151515;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 15px;
+  color: #ffffff;
+  padding: 6px 30px;
+  background-color: #000000;
+  margin-left: 10px;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #ffffff;
+    padding: 12px 40px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item .dropdown-shop-list-btn2 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #ffffff;
+    padding: 18px 50px;
+    margin-left: 16px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt {
+  border: 1px solid rgba(222, 222, 222, 0.1);
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt {
+    margin-top: 23px;
+    margin-bottom: 15px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
+  margin-left: 9px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
+    margin-left: 15px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 {
+    margin-left: 24px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #151515;
+  display: inline-block;
+  padding-right: 110px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #151515;
+    padding-right: 125px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #151515;
+    padding-right: 177px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #151515;
+  text-align: right;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #151515;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text2 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #151515;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #a7a7a7;
+  display: inline-block;
+  padding-right: 157px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #a7a7a7;
+    padding-right: 177px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text3 {
+    padding-right: 247px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text4 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #a7a7a7;
+  text-align: right;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item2 .dropdown-shop-list-text4 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #a7a7a7;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt1 {
+  border: 1px solid rgba(222, 222, 222, 0.1);
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-brbt1 {
+    margin-top: 27px;
+    margin-bottom: 22px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
+  margin-left: 9px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
+    margin-left: 15px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 {
+    margin-left: 24px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #151515;
+  display: inline-block;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #151515;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price1 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #151515;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #a7a7a7;
+  padding-left: 15px;
+  padding-right: 50px;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #a7a7a7;
+    padding-right: 54px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price2 {
+    padding-right: 112px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #151515;
+  text-align: right;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #151515;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-item3 .dropdown-shop-list-price3 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #151515;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  padding: 14px 71px;
+  margin-top: 20px;
+  margin-left: 9px;
+  background-color: #000000;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (min-width: 374px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ffffff;
+    margin-left: 15px;
+    padding: 14px 87px;
+  }
+}
+@media screen and (min-width: 425px) {
+  .dropdown-shop #dropdown-shop:checked ~ .dropdown-shop-list .dropdown-shop-list-btn3 {
+    font-family: "Proxima Nova Bold";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff;
+    padding: 14px 111px;
+    margin-left: 24px;
+  }
+}
+.dropdown-shop #dropdown-shop:checked ~ label b::after {
+  transform-: rotateZ(-135deg);
+  margin-bottom: -4px;
+}
+.dropdown-shop-list {
+  display: none;
+}
+
+.out--block--form- {
+  background-color: #fafafa;
+  max-width: 421px;
+  width: 100%;
+  margin: auto;
+  margin-top: -30px;
+}
+@media screen and (min-width: 767px) {
+  .out--block--form- {
+    margin-top: -20px;
+  }
+}
+@media screen and (min-width: 991px) {
+  .out--block--form- {
+    margin: 0;
+    margin-top: -87px;
+  }
+}
+.out--block--form- .out--block--form--btn1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 20px;
+  display: inline-block;
+  background-color: #000000;
+  margin-left: 20px;
+  margin-top: 21px;
+  margin-bottom: 19px;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--btn1 {
+    margin-left: 28px;
+  }
+}
+.out--block--form- .out--block--form--btn2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  border: 1px solid #000000;
+  padding: 13px 24px;
+  margin-left: -4px;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.out--block--form- .out--block--form--inp1 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp1 {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp2 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp2 {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp3 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp3 {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp4 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 100px 14px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp4 {
+    margin-left: 28px;
+    width: 239px;
+    padding: 12px 10px 13px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp5 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 105px 14px 13px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp5 {
+    margin-left: 2px;
+    padding: 12px 5px 13px 13px;
+    width: 116px;
+  }
+}
+.out--block--form- .out--block--form--inp6 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp6 {
+    margin-left: 28px;
+    width: 158px;
+    padding: 13px 5px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp7 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 96px 14px 22px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp7 {
+    margin-left: 4px;
+    width: 195px;
+    padding: 13px 6px 12px 22px;
+  }
+}
+.out--block--form- .out--block--form--inp8 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp8 {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp8-bla {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 10px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 278 px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp8-bla {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--inp9 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 15px 100px 12px 18px;
+  margin-left: 20px;
+  margin-bottom: 6px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--inp9 {
+    margin-left: 28px;
+    width: 362px;
+    padding: 13px 10px 12px 18px;
+  }
+}
+.out--block--form- .out--block--form--svg3 {
+  display: none;
+  margin-left: -40px;
+}
+.out--block--form- .out--block--form--subtext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-left: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--subtext {
+    padding-left: 28px;
+  }
+}
+.out--block--form- .out--block--form--text {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #000000;
+  padding-left: 50px;
+  padding-right: 20px;
+  padding-top: 28px;
+  padding-bottom: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--text {
+    padding-left: 57px;
+    padding-right: 60px;
+  }
+}
+.out--block--form- .out--block--form--text::before {
+  content: "";
+  display: block;
+  border: 1px solid rgba(112, 112, 112, 0.4);
+  width: 16px;
+  height: 16px;
+  margin-left: -27px;
+  margin-right: 12px;
+  margin-bottom: -20px;
+  cursor: pointer;
+}
+.out--block--form- .out--block--form--svg1 {
+  margin-bottom: -3px;
+  margin-left: 45px;
+  margin-right: 1px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--svg1 {
+    margin-left: 58px;
+  }
+}
+.out--block--form- .out--block--form--subtext2 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 10px;
+  color: #828282;
+}
+.out--block--form- .out--block--form--svg2 {
+  margin-bottom: -3px;
+  margin-left: 22px;
+  margin-top: 24px;
+  cursor: pointer;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--svg2 {
+    margin-left: 30px;
+  }
+}
+.out--block--form- .out--block--form--subtext3 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  padding-left: 7px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form- .out--block--form--subtext3 {
+    margin-left: 14px;
+    padding-left: 0;
+  }
+}
+.out--block--form- .out--block-inp {
+  margin-top: 18px;
+}
+.out--block--form-2-item1 {
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  max-width: 424px;
+  width: 100%;
+  margin: auto;
+  margin-top: 30px;
+}
+@media screen and (min-width: 991px) {
+  .out--block--form-2-item1 {
+    margin: 0;
+  }
+}
+.out--block--form-2-item1 .out--block--form-2-img1 {
+  max-width: 62px;
+  width: 100%;
+  max-height: 39px;
+  height: 100%;
+  margin-top: 24px;
+  margin-bottom: 21px;
+  margin-left: 23px;
+}
+.out--block--form-2-item1 .out--block--form-2-subtext1 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(0, 0, 0, 0.85);
+  padding-left: 15px;
+}
+.out--block--form-2-item1 .out--block--form-2-subtext1::after {
+  content: "";
+  display: inline-block;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  width: 19px;
+  height: 19px;
+  margin-left: 130px;
+  margin-bottom: -5px;
+  cursor: pointer;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-item1 .out--block--form-2-subtext1::after {
+    margin-left: 225px;
+  }
+}
+
+.out--block--form-2-item2 {
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  max-width: 424px;
+  width: 100%;
+  margin: auto;
+  margin-top: 10px;
+}
+@media screen and (min-width: 991px) {
+  .out--block--form-2-item2 {
+    margin: 0;
+    margin-top: 10px;
+  }
+}
+.out--block--form-2-item2 .out--block--form-2-img2 {
+  max-width: 62px;
+  width: 100%;
+  max-height: 39px;
+  height: 100%;
+  margin-top: 24px;
+  margin-bottom: 21px;
+  margin-left: 23px;
+}
+.out--block--form-2-item2 .out--block--form-2-subtext2 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(0, 0, 0, 0.85);
+  padding-left: 15px;
+}
+.out--block--form-2-item2 .out--block--form-2-subtext2::after {
+  content: "";
+  display: inline-block;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  width: 19px;
+  height: 19px;
+  margin-left: 100px;
+  margin-bottom: -5px;
+  cursor: pointer;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-item2 .out--block--form-2-subtext2::after {
+    margin-left: 194px;
+  }
+}
+
+.out--block--form-2-form- {
+  background-color: #fafafa;
+  max-width: 424px;
+  width: 100%;
+  margin: auto;
+}
+@media screen and (min-width: 991px) {
+  .out--block--form-2-form- {
+    margin: 0;
+  }
+}
+.out--block--form-2-form- .out--block--form-2-inp1 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 10px 12px 19px;
+  margin-left: 23px;
+  width: 280px;
+  margin-top: 41px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-form- .out--block--form-2-inp1 {
+    width: 381px;
+  }
+}
+.out--block--form-2-form- .out--block--form-2-inp2 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 10px 12px 18px;
+  margin-left: 23px;
+  width: 120px;
+  margin-top: 15px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-form- .out--block--form-2-inp2 {
+    width: 158px;
+  }
+}
+.out--block--form-2-form- .out--block--form-2-inp3 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 10px 12px 23px;
+  margin-left: 10px;
+  width: 146px;
+  margin-top: 15px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-form- .out--block--form-2-inp3 {
+    width: 208px;
+  }
+}
+.out--block--form-2-form- .out--block--form-2-inp4 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 13px 10px 12px 19px;
+  margin-left: 23px;
+  width: 280px;
+  margin-top: 15px;
+  margin-bottom: 32px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-form- .out--block--form-2-inp4 {
+    width: 381px;
+  }
+}
+
+.out--block--form-2-item3 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.out--block--form-2-item3 .out--block--form-2-img3 {
+  max-width: 62px;
+  width: 100%;
+  max-height: 39px;
+  height: 100%;
+  margin-top: 24px;
+  margin-bottom: 21px;
+  margin-left: 23px;
+}
+.out--block--form-2-item3 .out--block--form-2-subtext3 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(0, 0, 0, 0.85);
+  padding-left: 15px;
+}
+.out--block--form-2-item3 .out--block--form-2-svg {
+  margin-left: 67px;
+  cursor: pointer;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-2-item3 .out--block--form-2-svg {
+    margin-left: 162px;
+  }
+}
+
+.out--block--form-3 {
+  max-width: 424px;
+  width: 100%;
+  margin: auto;
+  background-color: #fafafa;
+  margin-top: 25px;
+}
+@media screen and (min-width: 991px) {
+  .out--block--form-3 {
+    margin: 0;
+    margin-top: 50px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .out--block--form-3 {
+    margin-top: 0;
+  }
+}
+.out--block--form-3 .out--block--form-3-dfl {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.out--block--form-3 .out--block--form-3-dfl .out--block--form-3-dfl-title1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  padding-top: 21px;
+  padding-left: 30px;
+}
+.out--block--form-3 .out--block--form-3-dfl .out--block--form-3-dfl-title2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  text-align: right;
+  padding-top: 21px;
+  padding-right: 46px;
+}
+.out--block--form-3 .out--block--form-3-brbt {
+  border: 1px solid rgba(224, 224, 224, 0.1);
+  margin-top: 17px;
+  margin-bottom: 24px;
+}
+.out--block--form-3 .out--block--form-3-item1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-img {
+  max-width: 81px;
+  width: 100%;
+  max-height: 101px;
+  height: 100%;
+  margin-left: 30px;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-subtext1 {
+  display: block;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25px;
+  color: #000000;
+  padding-left: 19px;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-subtext2 {
+  display: block;
+  padding-left: 19px;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: #a7a7a7;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-subtext3 {
+  display: block;
+  padding-left: 19px;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 25px;
+  color: #000000;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-subtext4 {
+  display: block;
+  padding-left: 19px;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: #828282;
+}
+.out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-text {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  text-align: right;
+  margin-left: auto;
+  padding-right: 20px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-3 .out--block--form-3-item1 .out--block--form-3-item1-text {
+    padding-right: 39px;
+  }
+}
+.out--block--form-3 .out--block--form-3-brbt1 {
+  border: 2px solid #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.out--block--form-3 .out--block--form-3-brbt2 {
+  border: 2px solid #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.out--block--form-3 .out--block--form-3-item2 {
+  padding-top: 38px;
+}
+.out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-subtext1 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  color: #000000;
+  padding-left: 30px;
+  margin-top: 38px;
+  margin-bottom: 27px;
+}
+.out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-subtext2 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-left: 9px;
+  margin-top: 38px;
+  margin-bottom: 27px;
+}
+.out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-inp1 {
+  border: 1px solid rgba(130, 130, 130, 0.4);
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 15px;
+  color: rgba(130, 130, 130, 0.85);
+  padding: 12px 10px 12px 18px;
+  margin-left: 30px;
+  margin-top: 27px;
+  margin-bottom: 43px;
+  width: 140px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-inp1 {
+    width: 182px;
+  }
+}
+.out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-inp2 {
+  background-color: #000000;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.85);
+  padding: 12px 10px 14px 8px;
+  margin-left: 6px;
+  margin-top: 27px;
+  margin-bottom: 43px;
+  width: 120px;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-3 .out--block--form-3-item2 .out--block--form-3-item2-inp2 {
+    width: 171px;
+  }
+}
+.out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext1 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  color: #000000;
+  padding-left: 30px;
+  padding-right: 140px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext1 {
+    padding-right: 221px;
+  }
+}
+.out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext2 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  text-align: right;
+}
+.out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext3 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-left: 30px;
+  padding-right: 140px;
+  padding-top: 10px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext3 {
+    padding-right: 222px;
+  }
+}
+.out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-subtext4 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: rgba(130, 130, 130, 0.85);
+  text-align: right;
+  padding-top: 10px;
+}
+.out--block--form-3 .out--block--form-3-item3 .out--block--form-3-item3-text {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-top: 12px;
+  padding-left: 30px;
+  padding-bottom: 29px;
+}
+
+.out--block--form-3-item3-spnpd {
+  padding-top: 10px;
+}
+
+.out--block--form-4 {
+  max-width: 424px;
+  width: 100%;
+  margin: auto;
+  background-color: #fafafa;
+  margin-top: 21px;
+}
+@media screen and (min-width: 991px) {
+  .out--block--form-4 {
+    margin: 0;
+    margin-top: 21px;
+  }
+}
+.out--block--form-4 .out--block--form-4-inp {
+  background-color: #000000;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  padding-top: 12px;
+  padding-bottom: 9px;
+  margin-left: 25px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  width: 280px;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-4 .out--block--form-4-inp {
+    width: 362px;
+  }
+}
+.out--block--form-4 .out--block--form-4-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-bottom: 25px;
+  padding-left: 54px;
+}
+.out--block--form-4 .out--block--form-4-text::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  border: 1px solid #707070;
+  display: block;
+  margin-bottom: -19px;
+  margin-left: -27px;
+  cursor: pointer;
+}
+.out--block--form-4 .out--block--form-4-item .out--block--form-4-subtext1 {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  color: #000000;
+  padding-left: 26px;
+  padding-right: 140px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-4 .out--block--form-4-item .out--block--form-4-subtext1 {
+    padding-right: 235px;
+  }
+}
+.out--block--form-4 .out--block--form-4-item .out--block--form-4-subtext2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  text-align: right;
+}
+.out--block--form-4 .out--block--form-4-item .out--block--form-4-item--spnpd {
+  padding-top: 5px;
+  padding-bottom: 17px;
+}
+.out--block--form-4 .out--block--form-4-item .out--block--form-4-item--spnpd .out--block--form-4-subtext3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  padding-left: 26px;
+  padding-right: 170px;
+}
+@media screen and (min-width: 425px) {
+  .out--block--form-4 .out--block--form-4-item .out--block--form-4-item--spnpd .out--block--form-4-subtext3 {
+    padding-right: 264px;
+  }
+}
+.out--block--form-4 .out--block--form-4-item .out--block--form-4-item--spnpd .out--block--form-4-subtext4 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(130, 130, 130, 0.85);
+  text-align: right;
+}
+
+.out--block-3and4 {
+  padding-bottom: 50px;
+}
+@media screen and (min-width: 991px) {
+  .out--block-3and4 {
+    padding-bottom: 0;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .out--block-3and4 {
+    top: 0;
+    left: 900px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .out--block--cont {
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .out--block--form-2 {
+    top: 0px;
+    left: 494px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .out--block--form-2 {
+    left: 446px;
+  }
+}
+
+.out {
+  max-width: 1302px;
+  margin: auto;
+}
+
+@media screen and (max-width: 1400px) {
+  .display-flex {
+    flex-direction: column;
+    align-items: center;
+  }
 }/*# sourceMappingURL=style.css.map */

@@ -3,11 +3,11 @@ body {
 }
 
 @font-face {
-    font-family: 'Proxima Nova Bold';
+    font-family: 'Proxima Nova Bold Bold';
     src: url('../fonts/ProximaNova-Bold.eot');
-    src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/ProximaNova-Bold.woff') format('woff'),
-        url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+    src: url('../fonts/ProximaNova-Bold.eot?#iefix') form-at('embedded-opentype'),
+        url('../fonts/ProximaNova-Bold.woff') form-at('woff'),
+        url('../fonts/ProximaNova-Bold.ttf') form-at('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -45,7 +45,7 @@ body {
 
 .header {
     a {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
@@ -75,7 +75,7 @@ body {
         width: 100%;
         top: 90%;
         left: 50%;
-        transform: translateX(-50%);
+        transform-: translateX(-50%);
 
         @media screen and (min-width: 576px) {
             max-width: 500px;
@@ -88,7 +88,7 @@ body {
         @media screen and (min-width: 992px) {
             position: unset !important;
             max-width: 388px;
-            transform: translateX(0);
+            transform-: translateX(0);
             margin: auto 0;
             margin-left: auto;
             background: rgba(0, 0, 0, 0.36);
@@ -102,7 +102,7 @@ body {
         }
 
         h2 {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 26px;
@@ -118,7 +118,7 @@ body {
         }
 
         p {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 400;
             font-size: 18px;
@@ -137,12 +137,12 @@ body {
         }
 
         button {
-            font-family: 'Proxima Nova';
+            font-family: 'Proxima Nova Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 15px;
             line-height: 15px;
-            text-transform: uppercase;
+            text-transform-: uppercase;
             color: #040404;
             padding: 14px 40px;
             border: 0;
@@ -176,7 +176,7 @@ body {
     .block {
         h2 {
             text-align: center;
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 30px;
@@ -204,7 +204,7 @@ body {
         }
 
         p {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 400;
             font-size: 15px;
@@ -234,7 +234,7 @@ body {
             }
 
             h3 {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 600;
                 font-size: 28px;
@@ -248,7 +248,7 @@ body {
             }
 
             p {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 16px;
@@ -282,7 +282,7 @@ body {
                     border: 1px solid #FFFFFF;
                     width: 535px;
                     left: 52%;
-                    transform: translateX(-50%);
+                    transform-: translateX(-50%);
                     top: 85%;
                     padding: 30px 0;
                     height: 114px;
@@ -290,7 +290,7 @@ body {
 
 
                     h3 {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 600;
                         font-size: 28px;
@@ -300,7 +300,7 @@ body {
                     }
 
                     p {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 400;
                         font-size: 16px;
@@ -329,7 +329,7 @@ body {
                     border: 1px solid #FFFFFF;
                     width: 299px;
                     left: 52%;
-                    transform: translateX(-50%);
+                    transform-: translateX(-50%);
                     top: 85%;
                     padding: 30px 0;
                     max-height: 114px;
@@ -337,7 +337,7 @@ body {
 
 
                     h3 {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 600;
                         font-size: 28px;
@@ -347,7 +347,7 @@ body {
                     }
 
                     p {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 400;
                         font-size: 16px;
@@ -389,7 +389,7 @@ body {
                     border: 1px solid #FFFFFF;
                     width: 415px;
                     left: 56%;
-                    transform: translateX(-50%);
+                    transform-: translateX(-50%);
                     top: 66%;
                     padding: 30px 0;
                     max-height: 114px;
@@ -397,7 +397,7 @@ body {
 
 
                     h3 {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 600;
                         font-size: 28px;
@@ -407,7 +407,7 @@ body {
                     }
 
                     p {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 400;
                         font-size: 16px;
@@ -441,7 +441,7 @@ body {
                     border: 1px solid #FFFFFF;
                     width: 415px;
                     left: 56%;
-                    transform: translateX(-50%);
+                    transform-: translateX(-50%);
                     top: 66%;
                     padding: 30px 0;
                     max-height: 114px;
@@ -449,7 +449,7 @@ body {
 
 
                     h3 {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 600;
                         font-size: 28px;
@@ -459,7 +459,7 @@ body {
                     }
 
                     p {
-                        font-family: 'Proxima Nova Bold';
+                        font-family: 'Proxima Nova Bold Bold';
                         font-style: normal;
                         font-weight: 400;
                         font-size: 16px;
@@ -525,7 +525,7 @@ body {
     background-size: 12px;
     background-position: center;
     background-color: #FFFFFF;
-    transform: translateY(-50%);
+    transform-: translateY(-50%);
     top: 45%;
 
     @media screen and (min-width: 992px) {
@@ -544,7 +544,7 @@ body {
 
 .swiper-button-prev {
     left: 0;
-    transform: rotateZ(180deg) translateY(50%);
+    transform-: rotateZ(180deg) translateY(50%);
 }
 
 .bg-room {
@@ -584,7 +584,7 @@ body {
         position: absolute;
         width: 100%;
         left: 50%;
-        transform: translateX(-50%);
+        transform-: translateX(-50%);
         margin-top: -246px;
 
         @media screen and (min-width: 576px) {
@@ -599,7 +599,7 @@ body {
         @media screen and (min-width: 992px) {
             position: unset !important;
             max-width: 388px;
-            transform: translateX(0);
+            transform-: translateX(0);
             margin: auto 0;
             background-color: #F7F7F7;
         }
@@ -611,7 +611,7 @@ body {
         }
 
         h3 {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 30px;
@@ -628,7 +628,7 @@ body {
         }
 
         p {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 400;
             font-size: 20px;
@@ -645,12 +645,12 @@ body {
         }
 
         button {
-            font-family: 'Proxima Nova';
+            font-family: 'Proxima Nova Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 15px;
             line-height: 15px;
-            text-transform: uppercase;
+            text-transform-: uppercase;
             color: #FFFFFF;
             background-color: #111010;
             padding: 14px 40px;
@@ -674,7 +674,7 @@ body {
     }
 
     h2 {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 30px;
@@ -692,7 +692,7 @@ body {
     }
 
     p {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 400;
         font-size: 20px;
@@ -733,12 +733,12 @@ body {
     }
 
     button {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
         line-height: 19px;
-        text-transform: uppercase;
+        text-transform-: uppercase;
         color: #FFFFFF;
         padding: 16px 44px;
         border: 0;
@@ -756,12 +756,12 @@ body {
         position: absolute;
         top: 100%;
         left: 90%;
-        transform: translate(-90%, -100%);
+        transform-: translate(-90%, -100%);
 
         &-small {
             h3 {
                 margin-bottom: 0;
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 600;
                 font-size: 18px;
@@ -771,7 +771,7 @@ body {
 
             p {
                 margin-bottom: 0;
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 600;
                 font-size: 18px;
@@ -808,7 +808,7 @@ body {
         background-size: 12px;
         background-position: center;
         background-color: #FFFFFF;
-        transform: translateY(0);
+        transform-: translateY(0);
         top: 50%;
 
         @media screen and (min-width: 992px) {
@@ -823,7 +823,7 @@ body {
 
     .swiper-button-prev {
         left: 0;
-        transform: rotateZ(180deg) translateY(0);
+        transform-: rotateZ(180deg) translateY(0);
     }
 }
 
@@ -836,7 +836,7 @@ body {
 
     h2 {
         text-align: center;
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 30px;
@@ -864,7 +864,7 @@ body {
     }
 
     p {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 400;
         font-size: 15px;
@@ -880,12 +880,12 @@ body {
     }
 
     button {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
         line-height: 16px;
-        text-transform: uppercase;
+        text-transform-: uppercase;
         color: #FFFFFF;
         padding: 14px 40px;
         border: 0;
@@ -905,7 +905,7 @@ body {
 
     .swiper-slide {
         h4 {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 600;
             font-size: 26px;
@@ -915,7 +915,7 @@ body {
         }
 
         p {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 600;
             font-size: 16px;
@@ -965,7 +965,7 @@ body {
         h4 {
             max-width: 333px;
             padding: 0;
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 600;
             font-size: 26px;
@@ -978,7 +978,7 @@ body {
         p {
             max-width: 333px;
             padding: 0;
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 600;
             font-size: 16px;
@@ -995,12 +995,12 @@ body {
     margin-top: 120px;
 
     button {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
         line-height: 19px;
-        text-transform: uppercase;
+        text-transform-: uppercase;
         color: #FFFFFF;
         padding: 18px 34px;
         max-height: 52px;
@@ -1012,7 +1012,7 @@ body {
     .block-1 {
         h2 {
             text-align: center;
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 700;
             font-size: 48px;
@@ -1029,7 +1029,7 @@ body {
         }
 
         p {
-            font-family: 'Proxima Nova Bold';
+            font-family: 'Proxima Nova Bold Bold';
             font-style: normal;
             font-weight: 400;
             font-size: 15px;
@@ -1048,8 +1048,8 @@ body {
             border-width: 0 1.5px 1.5px 0;
             display: inline-block;
             padding: 3px;
-            transform: rotate(45deg);
-            -webkit-transform: rotate(45deg);
+            transform-: rotate(45deg);
+            -webkit-transform-: rotate(45deg);
             margin-left: 3px;
             margin-bottom: 2px;
         }
@@ -1079,7 +1079,7 @@ body {
             margin-top: 12px;
 
             h3 {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 600;
                 font-size: 26px;
@@ -1089,7 +1089,7 @@ body {
             }
 
             span {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 12px;
@@ -1103,7 +1103,7 @@ body {
 
             p {
                 padding: 0 !important;
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 600;
                 font-size: 18px;
@@ -1155,7 +1155,7 @@ body {
             position: absolute;
             width: 100%;
             left: 50%;
-            transform: translateX(-50%);
+            transform-: translateX(-50%);
             margin-top: -236px;
 
             @media screen and (min-width: 576px) {
@@ -1169,7 +1169,7 @@ body {
 
             @media screen and (min-width: 992px) {
                 position: unset !important;
-                transform: translateX(0);
+                transform-: translateX(0);
                 max-width: 692px;
                 margin: auto 0;
                 background-color: #F7F7F7;
@@ -1180,7 +1180,7 @@ body {
             }
 
             h3 {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 700;
                 font-size: 30px;
@@ -1196,7 +1196,7 @@ body {
             }
 
             p {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 20px;
@@ -1213,12 +1213,12 @@ body {
             }
 
             button {
-                font-family: 'Proxima Nova';
+                font-family: 'Proxima Nova Bold';
                 font-style: normal;
                 font-weight: 700;
                 font-size: 15px;
                 line-height: 15px;
-                text-transform: uppercase;
+                text-transform-: uppercase;
                 color: #FFFFFF;
                 background-color: #111010;
                 padding: 14px 40px;
@@ -1274,7 +1274,7 @@ body {
 
             p,
             span {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 9px;
@@ -1303,12 +1303,12 @@ body {
     background-position: center;
 
     h1 {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 22px;
-        text-transform: uppercase;
+        text-transform-: uppercase;
         margin-top: 227px;
         color: #E4E4E4;
 
@@ -1321,7 +1321,7 @@ body {
     }
 
     p {
-        font-family: 'Proxima Nova Bold';
+        font-family: 'Proxima Nova Bold Bold';
         font-style: normal;
         font-weight: 400;
         font-size: 18px;
@@ -1353,7 +1353,7 @@ body {
             max-height: 401px;
 
             span {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 15px;
@@ -1363,7 +1363,7 @@ body {
             }
 
             h2 {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 700;
                 font-size: 25px;
@@ -1373,7 +1373,7 @@ body {
             }
 
             p {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 18px;
@@ -1388,7 +1388,7 @@ body {
                 background-image: url(../img/catalog-1.png);
 
                 span {
-                    font-family: 'Proxima Nova Bold';
+                    font-family: 'Proxima Nova Bold Bold';
                     font-style: normal;
                     font-weight: 400;
                     font-size: 15px;
@@ -1398,7 +1398,7 @@ body {
                 }
 
                 h2 {
-                    font-family: 'Proxima Nova Bold';
+                    font-family: 'Proxima Nova Bold Bold';
                     font-style: normal;
                     font-weight: 700;
                     font-size: 25px;
@@ -1408,7 +1408,7 @@ body {
                 }
 
                 p {
-                    font-family: 'Proxima Nova Bold';
+                    font-family: 'Proxima Nova Bold Bold';
                     font-style: normal;
                     font-weight: 400;
                     font-size: 18px;
@@ -1452,7 +1452,7 @@ body {
             }
 
             p {
-                font-family: 'Proxima Nova Bold';
+                font-family: 'Proxima Nova Bold Bold';
                 font-style: normal;
                 font-weight: 400;
                 font-size: 20px;
@@ -1497,7 +1497,7 @@ body {
                 content: "";
                 border-bottom: 1.5px solid white;
                 border-right: 1.5px solid white;
-                transform: rotateZ(315deg);
+                transform-: rotateZ(315deg);
                 display: inline-block;
                 width: 8px;
                 height: 8px;
@@ -1559,9 +1559,7 @@ body {
                 filter: brightness(1);
                 cursor: pointer;
 
-                &:hover {
-                    filter: brightness(0.5);
-                }
+
 
                 @media screen and (min-width: 576px) {
                     display: block;
@@ -1606,10 +1604,6 @@ body {
                     height: 100%;
                     filter: brightness(1);
                     cursor: pointer;
-
-                    &:hover {
-                        filter: brightness(0.5);
-                    }
                 }
 
                 & .product--block--img3 {
@@ -1619,10 +1613,6 @@ body {
                     height: 100%;
                     filter: brightness(1);
                     cursor: pointer;
-
-                    &:hover {
-                        filter: brightness(0.5);
-                    }
                 }
 
                 & .product--block--img4 {
@@ -1632,10 +1622,6 @@ body {
                     height: 100%;
                     filter: brightness(1);
                     cursor: pointer;
-
-                    &:hover {
-                        filter: brightness(0.5);
-                    }
                 }
             }
         }
@@ -1657,25 +1643,25 @@ body {
 
             & .product--block--item1 {
                 & .product--block--title {
-                    @include Font("Proxima Nova", normal, 700, 24px, 34px, #111010);
+                    @include Font("Proxima Nova Bold", normal, 700, 24px, 34px, #111010);
                     padding-top: 20px;
 
                     @media screen and (min-width: 576px) {
-                        @include Font("Proxima Nova", normal, 700, 28px, 38px, #111010);
+                        @include Font("Proxima Nova Bold", normal, 700, 28px, 38px, #111010);
                     }
 
                     @media screen and (min-width: 767px) {
-                        @include Font("Proxima Nova", normal, 700, 32px, 42px, #111010);
+                        @include Font("Proxima Nova Bold", normal, 700, 32px, 42px, #111010);
                         padding-top: 32px;
                     }
 
                     @media screen and (min-width: 991px) {
                         padding-top: 15px;
-                        @include Font("Proxima Nova", normal, 700, 40px, 50px, #111010);
+                        @include Font("Proxima Nova Bold", normal, 700, 40px, 50px, #111010);
                     }
 
                     @media screen and (min-width: 1200px) {
-                        @include Font("Proxima Nova", normal, 700, 48px, 58px, #111010);
+                        @include Font("Proxima Nova Bold", normal, 700, 48px, 58px, #111010);
                     }
                 }
 
@@ -1699,20 +1685,20 @@ body {
                 }
 
                 & .product--block--text {
-                    @include Font("Proxima Nova", normal, 400, 15px, 20px, #616161);
+                    @include Font("Proxima Nova Bold", normal, 400, 15px, 20px, #616161);
                     padding-bottom: 30px;
 
                     @media screen and (min-width: 576px) {
-                        @include Font("Proxima Nova", normal, 400, 16px, 22px, #616161);
+                        @include Font("Proxima Nova Bold", normal, 400, 16px, 22px, #616161);
                     }
 
                     @media screen and (min-width: 767px) {
-                        @include Font("Proxima Nova", normal, 400, 18px, 24px, #616161);
+                        @include Font("Proxima Nova Bold", normal, 400, 18px, 24px, #616161);
                         padding-bottom: 42px;
                     }
 
                     @media screen and (min-width: 991px) {
-                        @include Font("Proxima Nova", normal, 400, 20px, 28px, #616161);
+                        @include Font("Proxima Nova Bold", normal, 400, 20px, 28px, #616161);
                         padding-bottom: 67px;
                         max-width: 610px;
                         width: 100%;
@@ -1931,7 +1917,7 @@ body {
                 padding-top: 19px;
 
                 & .product--block--list {
-                    & .product--block--list-child {
+                    & .product--block--list-block- {
                         @include Font("Poppins", normal, 400, 15px, 20px, #000000);
 
                         @media screen and (min-width: 576px) {
@@ -1968,7 +1954,7 @@ body {
     }
 }
 
-.product-child {
+.product-block- {
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -2093,12 +2079,12 @@ body {
     color: $clr;
 }
 
-.choise {
+.shop {
     max-width: 1440px;
     margin: auto;
 }
 
-.choise--block__grid {
+.shop--block-grid {
     margin-top: -26px;
     padding-bottom: 24px;
     max-width: 968px;
@@ -2144,7 +2130,7 @@ body {
         max-width: 968px;
     }
 
-    .choise--block__grid-child1 {
+    .shop--block-grid-block-1 {
         grid-area: 1 / 3 / 2 / 4;
         padding-top: 10px;
 
@@ -2153,7 +2139,7 @@ body {
         }
     }
 
-    .choise--block__grid-child2 {
+    .shop--block-grid-block-2 {
         grid-area: 1 / 4 / 2 / 5;
         padding-top: 10px;
 
@@ -2162,7 +2148,7 @@ body {
         }
     }
 
-    .choise--block__grid-child3 {
+    .shop--block-grid-block-3 {
         grid-area: 1 / 5 / 2 / 6;
         padding-top: 10px;
 
@@ -2171,7 +2157,7 @@ body {
         }
     }
 
-    .choise--block__grid-child4 {
+    .shop--block-grid-block-4 {
         grid-area: 3 / 1 / 4 / 2;
         padding-left: 10px;
 
@@ -2180,27 +2166,27 @@ body {
         }
     }
 
-    .choise--block__grid-child5 {
+    .shop--block-grid-block-5 {
         grid-area: 3 / 2 / 4 / 3;
         margin: auto;
     }
 
-    .choise--block__grid-child6 {
+    .shop--block-grid-block-6 {
         grid-area: 3 / 3 / 4 / 4;
         margin: auto;
     }
 
-    .choise--block__grid-child7 {
+    .shop--block-grid-block-7 {
         grid-area: 3 / 4 / 4 / 5;
         margin: auto;
     }
 
-    .choise--block__grid-child8 {
+    .shop--block-grid-block-8 {
         grid-area: 3 / 5 / 4 / 6;
         margin: auto;
     }
 
-    .choise--block__grid-child9 {
+    .shop--block-grid-block-9 {
         grid-area: 3 / 6 / 4 / 7;
         margin: auto;
         padding-right: 10px;
@@ -2210,7 +2196,7 @@ body {
         }
     }
 
-    .choise--block__grid-child10 {
+    .shop--block-grid-block-10 {
         grid-area: 5 / 1 / 6 / 2;
         padding-left: 10px;
 
@@ -2219,27 +2205,27 @@ body {
         }
     }
 
-    .choise--block__grid-child11 {
+    .shop--block-grid-block-11 {
         grid-area: 5 / 2 / 6 / 3;
         margin: auto;
     }
 
-    .choise--block__grid-child12 {
+    .shop--block-grid-block-12 {
         grid-area: 5 / 3 / 6 / 4;
         margin: auto;
     }
 
-    .choise--block__grid-child13 {
+    .shop--block-grid-block-13 {
         grid-area: 5 / 4 / 6 / 5;
         margin: auto;
     }
 
-    .choise--block__grid-child14 {
+    .shop--block-grid-block-14 {
         grid-area: 5 / 5 / 6 / 6;
         margin: auto;
     }
 
-    .choise--block__grid-child15 {
+    .shop--block-grid-block-15 {
         margin: auto;
         grid-area: 5 / 6 / 6 / 7;
         padding-right: 10px;
@@ -2249,7 +2235,7 @@ body {
         }
     }
 
-    .choise--block__grid-child16 {
+    .shop--block-grid-block-16 {
         grid-area: 7 / 1 / 8 / 2;
         padding-left: 10px;
 
@@ -2258,27 +2244,27 @@ body {
         }
     }
 
-    .choise--block__grid-child17 {
+    .shop--block-grid-block-17 {
         grid-area: 7 / 2 / 8 / 3;
         margin: auto;
     }
 
-    .choise--block__grid-child18 {
+    .shop--block-grid-block-18 {
         grid-area: 7 / 3 / 8 / 4;
         margin: auto;
     }
 
-    .choise--block__grid-child19 {
+    .shop--block-grid-block-19 {
         grid-area: 7 / 4 / 8 / 5;
         margin: auto;
     }
 
-    .choise--block__grid-child20 {
+    .shop--block-grid-block-20 {
         grid-area: 7 / 5 / 8 / 6;
         margin: auto;
     }
 
-    .choise--block__grid-child21 {
+    .shop--block-grid-block-21 {
         grid-area: 7 / 6 / 8 / 7;
         padding-right: 10px;
         margin: auto;
@@ -2288,7 +2274,7 @@ body {
         }
     }
 
-    .choise--block__grid-child22 {
+    .shop--block-grid-block-22 {
         grid-area: 2 / 1 / 3 / 7;
         border: 2px solid #ffffff;
         margin-top: 10px;
@@ -2300,7 +2286,7 @@ body {
         }
     }
 
-    .choise--block__grid-child23 {
+    .shop--block-grid-block-23 {
         grid-area: 4 / 1 / 5 / 7;
         border: 2px solid #ffffff;
         margin-top: 20px;
@@ -2312,7 +2298,7 @@ body {
         }
     }
 
-    .choise--block__grid-child24 {
+    .shop--block-grid-block-24 {
         grid-area: 6 / 1 / 7 / 7;
         border: 2px solid #ffffff;
         margin-top: 20px;
@@ -2325,131 +2311,65 @@ body {
     }
 }
 
-.choise--block__grid-span {
-    @include Font("Proxima Nova", normal, 700, 16px, 20px, #151515);
+.shop--block-grid-span {
+    @include Font("Proxima Nova Bold", normal, 700, 16px, 20px, #151515);
     text-align: center;
 
     @media screen and (min-width: 991px) {
-        @include Font("Proxima Nova", normal, 700, 20px, 24px, #151515);
+        @include Font("Proxima Nova Bold", normal, 700, 20px, 24px, #151515);
     }
 }
 
-.choise--block__grid-title {
-    @include Font("Proxima Nova", normal, 400, 16px, 20px, #151515);
+.shop--block-grid-title {
+    @include Font("Proxima Nova Bold", normal, 400, 16px, 20px, #151515);
     padding-bottom: 11px;
 
     @media screen and (min-width: 991px) {
-        @include Font("Proxima Nova", normal, 400, 20px, 24px, #151515);
+        @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
     }
 }
 
-.choise--block__grid-text {
-    @include Font("Proxima Nova", normal, 400, 15px, 18px, #a2a2a2);
+.shop--block-grid-text {
+    @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #a2a2a2);
 
     @media screen and (min-width: 991px) {
-        @include Font("Proxima Nova", normal, 400, 18px, 18px, #a2a2a2);
+        @include Font("Proxima Nova Bold", normal, 400, 18px, 18px, #a2a2a2);
     }
 }
 
-.choise--block__grid--item {
+.shop--block-grid--item {
     display: inline-block;
 }
 
-.choise--block__grid-price {
-    @include Font("Proxima Nova", normal, 400, 15px, 18px, #151515);
+.shop--block-grid-price {
+    @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
     text-align: center;
     display: block;
 
     @media screen and (min-width: 991px) {
-        @include Font("Proxima Nova", normal, 400, 20px, 24px, #151515);
+        @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
     }
 }
 
-.choise--block__svg-hover {
-    &:hover {
-        filter: invert(0.5);
-    }
-}
-
-.choise--block__grid-btn1 {
+.shop--block-grid-btn1 {
     border: 1px solid black;
     transition: all 0.3s;
     position: relative;
     overflow: hidden;
     z-index: 1;
 
-    &::after {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: #ffffff;
-        z-index: -2;
-    }
-
-    &::before {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 0%;
-        height: 100%;
-        background-color: darken(white, 30%);
-        transition: all 0.3s;
-        z-index: -1;
-    }
-
-    &:hover {
-        color: #fff;
-
-        &::before {
-            width: 100%;
-        }
-    }
 }
 
-.choise--block__grid-btn2 {
+.shop--block-grid-btn2 {
     border: 1px solid black;
     transition: all 0.3s;
     position: relative;
     overflow: hidden;
     z-index: 1;
 
-    &::after {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: #ffffff;
-        z-index: -2;
-    }
-
-    &::before {
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 0%;
-        height: 100%;
-        background-color: darken(white, 30%);
-        transition: all 0.3s;
-        z-index: -1;
-    }
-
-    &:hover {
-        color: #fff;
-
-        &::before {
-            width: 100%;
-        }
-    }
 }
 
-.choise--block__grid-svg1 {
+.shop--block-grid-svg1 {
     margin-bottom: 5px;
     margin-right: 4px;
     margin-left: 4px;
@@ -2463,7 +2383,7 @@ body {
     }
 }
 
-.choise--block__grid-svg2 {
+.shop--block-grid-svg2 {
     margin-left: 4px;
     margin-right: 4px;
     margin-top: 4px;
@@ -2477,7 +2397,7 @@ body {
     }
 }
 
-.choise--block__grid--quan {
+.shop--block-grid--quan {
     @include Font("Poppins", normal, 400, 15px, 20px, #151515);
     padding-left: 5px;
     padding-right: 5px;
@@ -2489,13 +2409,13 @@ body {
     }
 }
 
-.choise--contain {
+.shop--contain {
     @media screen and (min-width: 1200px) {
         position: relative;
     }
 }
 
-.choise--dropdown {
+.shop--dropdown {
     max-width: 422px;
     margin-left: 20px;
     margin-right: 20px;
@@ -2522,7 +2442,6 @@ body {
     }
 
     @media screen and (min-width: 1200px) {
-        position: absolute;
         top: -69px;
         left: 778px;
     }
@@ -2540,34 +2459,33 @@ body {
     }
 }
 
-.dropdown-choise {
+.dropdown-shop {
     display: block;
-    position: relative;
     cursor: pointer;
 
     label {
         display: block;
-        @include Font("Proxima Nova", normal, 700, 15px, 15px, #151515);
+        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #151515);
         padding-left: 9px;
         padding-top: 20px;
 
         @media screen and (min-width: 374px) {
-            @include Font("Proxima Nova", normal, 700, 18px, 18px, #151515);
+            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #151515);
             padding-left: 15px;
             padding-top: 30px;
         }
 
         @media screen and (min-width: 425px) {
-            @include Font("Proxima Nova", normal, 700, 20px, 20px, #151515);
+            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #151515);
             padding-left: 24px;
         }
 
-        & .choise-dropdown__subtext {
-            @include Font("Proxima Nova", normal, 700, 12px, 12px, #a7a7a7);
+        & .shop-dropdown-subtext {
+            @include Font("Proxima Nova Bold", normal, 700, 12px, 12px, #a7a7a7);
             padding-left: 9px;
 
             @media screen and (min-width: 374px) {
-                @include Font("Proxima Nova", normal, 700, 15px, 15px, #a7a7a7);
+                @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #a7a7a7);
             }
 
             @media screen and (min-width: 425px) {}
@@ -2579,7 +2497,7 @@ body {
                 display: inline-block;
                 border-bottom: 1.5px solid #000000;
                 border-right: 1.5px solid #000000;
-                transform: rotateZ(45deg);
+                transform-: rotateZ(45deg);
                 transition: all 0.3s;
                 margin-top: -3px;
                 margin-left: 23px;
@@ -2591,14 +2509,14 @@ body {
         }
     }
 
-    #dropdown-choise {
+    #dropdown-shop {
         display: none;
 
         &:checked {
-            &~.dropdown-choise-list {
+            &~.dropdown-shop-list {
                 display: block;
 
-                & .dropdown-choise-list__item {
+                & .dropdown-shop-list-item {
                     margin-left: 9px;
                     margin-top: 15px;
 
@@ -2611,14 +2529,14 @@ body {
                         margin-left: 24px;
                     }
 
-                    & .dropdown-choise-list__input {
-                        @include Font("Proxima Nova", normal, 700, 15px, 15px, #151515);
+                    & .dropdown-shop-list-input {
+                        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #151515);
                         border: 1px solid #000000;
                         padding: 3px 5px 3px 9px;
                         width: 125px;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 700, 18px, 18px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #151515);
                             padding: 8px 5px 9px 11px;
                             width: 140px;
                         }
@@ -2626,12 +2544,12 @@ body {
                         @media screen and (min-width: 425px) {
                             width: 182px;
                             padding: 14px 10px 15px 23px;
-                            @include Font("Proxima Nova", normal, 700, 20px, 20px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #151515);
                         }
                     }
 
-                    & .dropdown-choise-list__btn2 {
-                        @include Font("Proxima Nova", normal, 700, 15px, 15px, #ffffff);
+                    & .dropdown-shop-list-btn2 {
+                        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #ffffff);
                         padding: 6px 30px;
                         background-color: #000000;
                         margin-left: 10px;
@@ -2640,51 +2558,22 @@ body {
                         overflow: hidden;
                         z-index: 1;
 
-                        &::after {
-                            content: "";
-                            position: absolute;
-                            bottom: 0;
-                            left: 0;
-                            width: 100%;
-                            height: 100%;
-                            background-color: #000000;
-                            z-index: -2;
-                        }
 
-                        &::before {
-                            content: "";
-                            position: absolute;
-                            bottom: 0;
-                            left: 0;
-                            width: 0%;
-                            height: 100%;
-                            background-color: darken(grey, 30%);
-                            transition: all 0.3s;
-                            z-index: -1;
-                        }
-
-                        &:hover {
-                            color: #fff;
-
-                            &::before {
-                                width: 100%;
-                            }
-                        }
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 700, 18px, 18px, #ffffff);
+                            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #ffffff);
                             padding: 12px 40px;
                         }
 
                         @media screen and (min-width: 425px) {
-                            @include Font("Proxima Nova", normal, 700, 20px, 20px, #ffffff);
+                            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #ffffff);
                             padding: 18px 50px;
                             margin-left: 16px;
                         }
                     }
                 }
 
-                & .dropdown-choise-list__brbt {
+                & .dropdown-shop-list-brbt {
                     border: 1px solid rgba(222, 222, 222, 0.1);
                     margin-top: 15px;
                     margin-bottom: 10px;
@@ -2695,7 +2584,7 @@ body {
                     }
                 }
 
-                & .dropdown-choise-list__item2 {
+                & .dropdown-shop-list-item2 {
                     margin-left: 9px;
 
                     @media screen and (min-width: 374px) {
@@ -2706,7 +2595,7 @@ body {
                         margin-left: 24px;
                     }
 
-                    & .dropdown-choise-list__text1 {
+                    & .dropdown-shop-list-text1 {
                         @include Font("Poppins", normal, 400, 15px, 20px, #151515);
                         display: inline-block;
                         padding-right: 110px;
@@ -2722,26 +2611,26 @@ body {
                         }
                     }
 
-                    & .dropdown-choise-list__text2 {
-                        @include Font("Proxima Nova", normal, 400, 15px, 18px, #151515);
+                    & .dropdown-shop-list-text2 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
                         text-align: right;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 18px, 20px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 20px, #151515);
                         }
 
                         @media screen and (min-width: 425px) {
-                            @include Font("Proxima Nova", normal, 400, 20px, 24px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
                         }
                     }
 
-                    & .dropdown-choise-list__text3 {
-                        @include Font("Proxima Nova", normal, 400, 12px, 12px, #a7a7a7);
+                    & .dropdown-shop-list-text3 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 12px, #a7a7a7);
                         display: inline-block;
                         padding-right: 157px;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 15px, 15px, #a7a7a7);
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #a7a7a7);
                             padding-right: 177px;
                         }
 
@@ -2750,17 +2639,17 @@ body {
                         }
                     }
 
-                    & .dropdown-choise-list__text4 {
-                        @include Font("Proxima Nova", normal, 400, 12px, 14px, #a7a7a7);
+                    & .dropdown-shop-list-text4 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 14px, #a7a7a7);
                         text-align: right;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 15px, 18px, #a7a7a7);
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #a7a7a7);
                         }
                     }
                 }
 
-                & .dropdown-choise-list__brbt1 {
+                & .dropdown-shop-list-brbt1 {
                     border: 1px solid rgba(222, 222, 222, 0.1);
                     margin-top: 20px;
                     margin-bottom: 15px;
@@ -2771,7 +2660,7 @@ body {
                     }
                 }
 
-                & .dropdown-choise-list__item3 {
+                & .dropdown-shop-list-item3 {
                     margin-left: 9px;
 
                     @media screen and (min-width: 374px) {
@@ -2782,26 +2671,26 @@ body {
                         margin-left: 24px;
                     }
 
-                    & .dropdown-choise-list__price1 {
-                        @include Font("Proxima Nova", normal, 400, 15px, 15px, #151515);
+                    & .dropdown-shop-list-price1 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #151515);
                         display: inline-block;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 18px, 18px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 18px, #151515);
                         }
 
                         @media screen and (min-width: 425px) {
-                            @include Font("Proxima Nova", normal, 400, 20px, 20px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 20px, #151515);
                         }
                     }
 
-                    & .dropdown-choise-list__price2 {
-                        @include Font("Proxima Nova", normal, 400, 12px, 12px, #a7a7a7);
+                    & .dropdown-shop-list-price2 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 12px, #a7a7a7);
                         padding-left: 15px;
                         padding-right: 50px;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 15px, 15px, #a7a7a7);
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #a7a7a7);
                             padding-right: 54px;
                         }
 
@@ -2810,22 +2699,22 @@ body {
                         }
                     }
 
-                    & .dropdown-choise-list__price3 {
-                        @include Font("Proxima Nova", normal, 400, 15px, 18px, #151515);
+                    & .dropdown-shop-list-price3 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
                         text-align: right;
 
                         @media screen and (min-width: 374px) {
-                            @include Font("Proxima Nova", normal, 400, 18px, 20px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 20px, #151515);
                         }
 
                         @media screen and (min-width: 425px) {
-                            @include Font("Proxima Nova", normal, 400, 20px, 24px, #151515);
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
                         }
                     }
                 }
 
-                & .dropdown-choise-list__btn3 {
-                    @include Font("Proxima Nova", normal, 700, 15px, 18px, #ffffff);
+                & .dropdown-shop-list-btn3 {
+                    @include Font("Proxima Nova Bold", normal, 700, 15px, 18px, #ffffff);
                     padding: 14px 71px;
                     margin-top: 20px;
                     margin-left: 9px;
@@ -2835,45 +2724,14 @@ body {
                     overflow: hidden;
                     z-index: 1;
 
-                    &::after {
-                        content: "";
-                        position: absolute;
-                        bottom: 0;
-                        left: 0;
-                        width: 100%;
-                        height: 100%;
-                        background-color: #000000;
-                        z-index: -2;
-                    }
-
-                    &::before {
-                        content: "";
-                        position: absolute;
-                        bottom: 0;
-                        left: 0;
-                        width: 0%;
-                        height: 100%;
-                        background-color: darken(grey, 30%);
-                        transition: all 0.3s;
-                        z-index: -1;
-                    }
-
-                    &:hover {
-                        color: #fff;
-
-                        &::before {
-                            width: 100%;
-                        }
-                    }
-
                     @media screen and (min-width: 374px) {
-                        @include Font("Proxima Nova", normal, 700, 18px, 20px, #ffffff);
+                        @include Font("Proxima Nova Bold", normal, 700, 18px, 20px, #ffffff);
                         margin-left: 15px;
                         padding: 14px 87px;
                     }
 
                     @media screen and (min-width: 425px) {
-                        @include Font("Proxima Nova", normal, 700, 20px, 24px, #ffffff);
+                        @include Font("Proxima Nova Bold", normal, 700, 20px, 24px, #ffffff);
                         padding: 14px 111px;
                         margin-left: 24px;
                     }
@@ -2881,7 +2739,7 @@ body {
             }
 
             &~label b::after {
-                transform: rotateZ(-135deg);
+                transform-: rotateZ(-135deg);
                 margin-bottom: -4px;
             }
         }
@@ -2889,5 +2747,1703 @@ body {
 
     &-list {
         display: none;
+    }
+}
+
+@mixin Font($ff, $fst, $fw, $fz, $lhg, $clr) {
+    font-family: $ff;
+    font-style: $fst;
+    font-weight: $fw;
+    font-size: $fz;
+    line-height: $lhg;
+    color: $clr;
+}
+
+.cart {
+    background-color: rgba(196, 196, 196, .1);
+
+    & .cart--bcg {
+        height: 80px;
+
+        @media screen and (min-width: 576px) {
+            height: 100px;
+        }
+
+        @media screen and (min-width: 767px) {
+            height: 120px;
+        }
+
+        @media screen and (min-width: 991px) {
+            height: 149px;
+        }
+    }
+
+    & .cart--item {
+        padding-left: 20px;
+        padding-right: 20px;
+        position: relative;
+        top: -60px;
+        max-width: 1440px;
+        margin: auto;
+
+        @media screen and (min-width: 576px) {
+            top: -70px;
+            padding-left: 25px;
+            padding-right: 25px;
+        }
+
+        @media screen and (min-width: 767px) {
+            top: -82px;
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+
+        @media screen and (min-width: 991px) {
+            top: -111px;
+            padding-left: 70px;
+            padding-right: 70px;
+        }
+
+        @media screen and (min-width: 1200px) {
+            padding-left: 100px;
+            padding-right: 100px;
+        }
+
+        @media screen and (min-width: 1400px) {
+            padding-left: 85px;
+            padding-right: 120px;
+        }
+
+        & .cart-title {
+            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #151515);
+            padding-bottom: 10px;
+
+            @media screen and (min-width: 576px) {
+                @include Font("Proxima Nova Bold", normal, 700, 22px, 22px, #151515);
+            }
+
+            @media screen and (min-width: 767px) {
+                @include Font("Proxima Nova Bold", normal, 700, 28px, 28px, #151515);
+            }
+
+            @media screen and (min-width: 991px) {
+                @include Font("Proxima Nova Bold", normal, 700, 35px, 35px, #151515);
+            }
+        }
+
+        & .cart--block {
+            & .cart-svg {
+                margin-bottom: -3px;
+            }
+
+            & .cart-text {
+                @include Font("Proxima Nova Bold", normal, 700, 15px, 18px, #151515);
+                display: inline-block;
+                padding-left: 4px;
+
+                @media screen and (min-width: 576px) {
+                    @include Font("Proxima Nova Bold", normal, 700, 18px, 22px, #151515);
+                    padding-left: 8px;
+                }
+
+                @media screen and (min-width: 767px) {
+                    @include Font("Proxima Nova Bold", normal, 700, 20px, 28px, #151515);
+                }
+            }
+        }
+    }
+}
+
+@mixin Font($ff, $fst, $fw, $fz, $lhg, $clr) {
+    font-family: $ff;
+    font-style: $fst;
+    font-weight: $fw;
+    font-size: $fz;
+    line-height: $lhg;
+    color: $clr;
+}
+
+.shop {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.shop--block-grid {
+    margin-top: -26px;
+    padding-bottom: 24px;
+    max-width: 968px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: grid;
+    grid-template-columns: 0.1fr repeat(2, 0.3fr) 0.4fr 0.3fr 0.1fr;
+    grid-template-rows: 0.3fr 0.02fr 1fr 0.02fr 1fr 0.02fr 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    background-color: #fafafa;
+
+    @media screen and (min-width: 576px) {
+        margin-top: -21px;
+    }
+
+    @media screen and (min-width: 767px) {
+        margin-top: -31px;
+    }
+
+    @media screen and (min-width: 991px) {
+        margin-top: -30px;
+        padding-bottom: 46px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        max-width: 748px;
+        margin-top: -30px;
+        padding-bottom: 66px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    @media screen and (min-width: 1300px) {
+        max-width: 818px;
+    }
+
+    @media screen and (min-width: 1400px) {
+        max-width: 948px;
+    }
+
+    @media screen and (min-width: 1440px) {
+        max-width: 968px;
+    }
+
+    .shop--block-grid-block-1 {
+        grid-area: 1 / 3 / 2 / 4;
+        padding-top: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-top: 25px;
+        }
+    }
+
+    .shop--block-grid-block-2 {
+        grid-area: 1 / 4 / 2 / 5;
+        padding-top: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-top: 25px;
+        }
+    }
+
+    .shop--block-grid-block-3 {
+        grid-area: 1 / 5 / 2 / 6;
+        padding-top: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-top: 25px;
+        }
+    }
+
+    .shop--block-grid-block-4 {
+        grid-area: 3 / 1 / 4 / 2;
+        padding-left: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-left: 31px;
+        }
+    }
+
+    .shop--block-grid-block-5 {
+        grid-area: 3 / 2 / 4 / 3;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-6 {
+        grid-area: 3 / 3 / 4 / 4;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-7 {
+        grid-area: 3 / 4 / 4 / 5;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-8 {
+        grid-area: 3 / 5 / 4 / 6;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-9 {
+        grid-area: 3 / 6 / 4 / 7;
+        margin: auto;
+        padding-right: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-right: 36px;
+        }
+    }
+
+    .shop--block-grid-block-10 {
+        grid-area: 5 / 1 / 6 / 2;
+        padding-left: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-left: 31px;
+        }
+    }
+
+    .shop--block-grid-block-11 {
+        grid-area: 5 / 2 / 6 / 3;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-12 {
+        grid-area: 5 / 3 / 6 / 4;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-13 {
+        grid-area: 5 / 4 / 6 / 5;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-14 {
+        grid-area: 5 / 5 / 6 / 6;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-15 {
+        margin: auto;
+        grid-area: 5 / 6 / 6 / 7;
+        padding-right: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-right: 36px;
+        }
+    }
+
+    .shop--block-grid-block-16 {
+        grid-area: 7 / 1 / 8 / 2;
+        padding-left: 10px;
+
+        @media screen and (min-width: 991px) {
+            padding-left: 31px;
+        }
+    }
+
+    .shop--block-grid-block-17 {
+        grid-area: 7 / 2 / 8 / 3;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-18 {
+        grid-area: 7 / 3 / 8 / 4;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-19 {
+        grid-area: 7 / 4 / 8 / 5;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-20 {
+        grid-area: 7 / 5 / 8 / 6;
+        margin: auto;
+    }
+
+    .shop--block-grid-block-21 {
+        grid-area: 7 / 6 / 8 / 7;
+        padding-right: 10px;
+        margin: auto;
+
+        @media screen and (min-width: 991px) {
+            padding-right: 36px;
+        }
+    }
+
+    .shop--block-grid-block-22 {
+        grid-area: 2 / 1 / 3 / 7;
+        border: 2px solid #ffffff;
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 991px) {
+            margin-top: 17px;
+            margin-bottom: 30px;
+        }
+    }
+
+    .shop--block-grid-block-23 {
+        grid-area: 4 / 1 / 5 / 7;
+        border: 2px solid #ffffff;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 991px) {
+            margin-top: 33px;
+            margin-bottom: 33px;
+        }
+    }
+
+    .shop--block-grid-block-24 {
+        grid-area: 6 / 1 / 7 / 7;
+        border: 2px solid #ffffff;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 991px) {
+            margin-top: 33px;
+            margin-bottom: 33px;
+        }
+    }
+}
+
+.shop--block-grid-span {
+    @include Font("Proxima Nova Bold", normal, 700, 16px, 20px, #151515);
+    text-align: center;
+
+    @media screen and (min-width: 991px) {
+        @include Font("Proxima Nova Bold", normal, 700, 20px, 24px, #151515);
+    }
+}
+
+.shop--block-grid-title {
+    @include Font("Proxima Nova Bold", normal, 400, 16px, 20px, #151515);
+    padding-bottom: 11px;
+
+    @media screen and (min-width: 991px) {
+        @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
+    }
+}
+
+.shop--block-grid-text {
+    @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #a2a2a2);
+
+    @media screen and (min-width: 991px) {
+        @include Font("Proxima Nova Bold", normal, 400, 18px, 18px, #a2a2a2);
+    }
+}
+
+.shop--block-grid--item {
+    display: inline-block;
+}
+
+.shop--block-grid-price {
+    @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
+    text-align: center;
+    display: block;
+
+    @media screen and (min-width: 991px) {
+        @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
+    }
+}
+
+.shop--block-grid-btn1 {
+    border: 1px solid black;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+
+
+}
+
+.shop--block-grid-btn2 {
+    border: 1px solid black;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+
+}
+
+.shop--block-grid-svg1 {
+    margin-bottom: 5px;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 10px;
+
+    @media screen and (min-width: 991px) {
+        margin-bottom: 6px;
+        margin-right: 7px;
+        margin-left: 7px;
+        margin-top: 13px;
+    }
+}
+
+.shop--block-grid-svg2 {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 1px;
+
+    @media screen and (min-width: 991px) {
+        margin-left: 7px;
+        margin-right: 7px;
+        margin-top: 7px;
+        margin-bottom: 3px;
+    }
+}
+
+.shop--block-grid--quan {
+    @include Font("Poppins", normal, 400, 15px, 20px, #151515);
+    padding-left: 5px;
+    padding-right: 5px;
+
+    @media screen and (min-width: 991px) {
+        @include Font("Poppins", normal, 400, 20px, 30px, #151515);
+        padding-left: 21px;
+        padding-right: 21px;
+    }
+}
+
+.shop--contain {
+    @media screen and (min-width: 1200px) {
+        position: relative;
+    }
+}
+
+.shop--dropdown {
+    max-width: 422px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #fafafa;
+    padding-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    @media screen and (min-width: 374px) {
+        padding-bottom: 30px;
+    }
+
+    @media screen and (min-width: 425px) {
+        margin-left: 0;
+        margin-right: 0;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    @media screen and (min-width: 425px) {
+        margin-bottom: 70px;
+        margin-top: 70px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        top: -69px;
+        left: 778px;
+    }
+
+    @media screen and (min-width: 1300px) {
+        left: 878px;
+    }
+
+    @media screen and (min-width: 1400px) {
+        left: 976px;
+    }
+
+    @media screen and (min-width: 1440px) {
+        left: 1000px;
+    }
+}
+
+.dropdown-shop {
+    display: block;
+    position: relative;
+    cursor: pointer;
+
+    label {
+        display: block;
+        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #151515);
+        padding-left: 9px;
+        padding-top: 20px;
+
+        @media screen and (min-width: 374px) {
+            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #151515);
+            padding-left: 15px;
+            padding-top: 30px;
+        }
+
+        @media screen and (min-width: 425px) {
+            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #151515);
+            padding-left: 24px;
+        }
+
+        & .shop-dropdown-subtext {
+            @include Font("Proxima Nova Bold", normal, 700, 12px, 12px, #a7a7a7);
+            padding-left: 9px;
+
+            @media screen and (min-width: 374px) {
+                @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #a7a7a7);
+            }
+
+            @media screen and (min-width: 425px) {}
+
+            &::after {
+                content: "";
+                width: 11px;
+                height: 11px;
+                display: inline-block;
+                border-bottom: 1.5px solid #000000;
+                border-right: 1.5px solid #000000;
+                transform-: rotateZ(45deg);
+                transition: all 0.3s;
+                margin-top: -3px;
+                margin-left: 23px;
+
+                @media screen and (min-width: 425px) {
+                    margin-left: 61px;
+                }
+            }
+        }
+    }
+
+    #dropdown-shop {
+        display: none;
+
+        &:checked {
+            &~.dropdown-shop-list {
+                display: block;
+
+                & .dropdown-shop-list-item {
+                    margin-left: 9px;
+                    margin-top: 15px;
+
+                    @media screen and (min-width: 374px) {
+                        margin-left: 15px;
+                        margin-top: 28px;
+                    }
+
+                    @media screen and (min-width: 425px) {
+                        margin-left: 24px;
+                    }
+
+                    & .dropdown-shop-list-input {
+                        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #151515);
+                        border: 1px solid #000000;
+                        padding: 3px 5px 3px 9px;
+                        width: 125px;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #151515);
+                            padding: 8px 5px 9px 11px;
+                            width: 140px;
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            width: 182px;
+                            padding: 14px 10px 15px 23px;
+                            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #151515);
+                        }
+                    }
+
+                    & .dropdown-shop-list-btn2 {
+                        @include Font("Proxima Nova Bold", normal, 700, 15px, 15px, #ffffff);
+                        padding: 6px 30px;
+                        background-color: #000000;
+                        margin-left: 10px;
+                        transition: all 0.3s;
+                        position: relative;
+                        overflow: hidden;
+                        z-index: 1;
+
+
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 700, 18px, 18px, #ffffff);
+                            padding: 12px 40px;
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            @include Font("Proxima Nova Bold", normal, 700, 20px, 20px, #ffffff);
+                            padding: 18px 50px;
+                            margin-left: 16px;
+                        }
+                    }
+                }
+
+                & .dropdown-shop-list-brbt {
+                    border: 1px solid rgba(222, 222, 222, 0.1);
+                    margin-top: 15px;
+                    margin-bottom: 10px;
+
+                    @media screen and (min-width: 374px) {
+                        margin-top: 23px;
+                        margin-bottom: 15px;
+                    }
+                }
+
+                & .dropdown-shop-list-item2 {
+                    margin-left: 9px;
+
+                    @media screen and (min-width: 374px) {
+                        margin-left: 15px;
+                    }
+
+                    @media screen and (min-width: 425px) {
+                        margin-left: 24px;
+                    }
+
+                    & .dropdown-shop-list-text1 {
+                        @include Font("Poppins", normal, 400, 15px, 20px, #151515);
+                        display: inline-block;
+                        padding-right: 110px;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Poppins", normal, 400, 18px, 24px, #151515);
+                            padding-right: 125px;
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            @include Font("Poppins", normal, 400, 20px, 30px, #151515);
+                            padding-right: 177px;
+                        }
+                    }
+
+                    & .dropdown-shop-list-text2 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
+                        text-align: right;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 20px, #151515);
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
+                        }
+                    }
+
+                    & .dropdown-shop-list-text3 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 12px, #a7a7a7);
+                        display: inline-block;
+                        padding-right: 157px;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #a7a7a7);
+                            padding-right: 177px;
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            padding-right: 247px;
+                        }
+                    }
+
+                    & .dropdown-shop-list-text4 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 14px, #a7a7a7);
+                        text-align: right;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #a7a7a7);
+                        }
+                    }
+                }
+
+                & .dropdown-shop-list-brbt1 {
+                    border: 1px solid rgba(222, 222, 222, 0.1);
+                    margin-top: 20px;
+                    margin-bottom: 15px;
+
+                    @media screen and (min-width: 374px) {
+                        margin-top: 27px;
+                        margin-bottom: 22px;
+                    }
+                }
+
+                & .dropdown-shop-list-item3 {
+                    margin-left: 9px;
+
+                    @media screen and (min-width: 374px) {
+                        margin-left: 15px;
+                    }
+
+                    @media screen and (min-width: 425px) {
+                        margin-left: 24px;
+                    }
+
+                    & .dropdown-shop-list-price1 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #151515);
+                        display: inline-block;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 18px, #151515);
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 20px, #151515);
+                        }
+                    }
+
+                    & .dropdown-shop-list-price2 {
+                        @include Font("Proxima Nova Bold", normal, 400, 12px, 12px, #a7a7a7);
+                        padding-left: 15px;
+                        padding-right: 50px;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 15px, 15px, #a7a7a7);
+                            padding-right: 54px;
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            padding-right: 112px;
+                        }
+                    }
+
+                    & .dropdown-shop-list-price3 {
+                        @include Font("Proxima Nova Bold", normal, 400, 15px, 18px, #151515);
+                        text-align: right;
+
+                        @media screen and (min-width: 374px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 18px, 20px, #151515);
+                        }
+
+                        @media screen and (min-width: 425px) {
+                            @include Font("Proxima Nova Bold", normal, 400, 20px, 24px, #151515);
+                        }
+                    }
+                }
+
+                & .dropdown-shop-list-btn3 {
+                    @include Font("Proxima Nova Bold", normal, 700, 15px, 18px, #ffffff);
+                    padding: 14px 71px;
+                    margin-top: 20px;
+                    margin-left: 9px;
+                    background-color: #000000;
+                    transition: all 0.3s;
+                    position: relative;
+                    overflow: hidden;
+                    z-index: 1;
+
+
+
+                    @media screen and (min-width: 374px) {
+                        @include Font("Proxima Nova Bold", normal, 700, 18px, 20px, #ffffff);
+                        margin-left: 15px;
+                        padding: 14px 87px;
+                    }
+
+                    @media screen and (min-width: 425px) {
+                        @include Font("Proxima Nova Bold", normal, 700, 20px, 24px, #ffffff);
+                        padding: 14px 111px;
+                        margin-left: 24px;
+                    }
+                }
+            }
+
+            &~label b::after {
+                transform-: rotateZ(-135deg);
+                margin-bottom: -4px;
+            }
+        }
+    }
+
+    &-list {
+        display: none;
+    }
+}
+
+@mixin Font($ff, $fst, $fw, $fz, $lhg, $clr) {
+    font-family: $ff;
+    font-style: $fst;
+    font-weight: $fw;
+    font-size: $fz;
+    line-height: $lhg;
+    color: $clr;
+}
+
+.out--block--form- {
+    background-color: #fafafa;
+    max-width: 421px;
+    width: 100%;
+    margin: auto;
+    margin-top: -30px;
+
+    @media screen and (min-width: 767px) {
+        margin-top: -20px;
+    }
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+        margin-top: -87px;
+    }
+
+    & .out--block--form--btn1 {
+        @include Font("Inter", normal, 400, 15px, 18px, #ffffff);
+        text-align: center;
+        padding: 14px 20px;
+        display: inline-block;
+        background-color: #000000;
+        margin-left: 20px;
+        margin-top: 21px;
+        margin-bottom: 19px;
+        transition: all 0.3s;
+        position: relative;
+        overflow: hidden;
+        z-index: 1;
+
+
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+        }
+    }
+
+    & .out--block--form--btn2 {
+        @include Font("Inter", normal, 400, 15px, 18px, #000000);
+        border: 1px solid #000000;
+        padding: 13px 24px;
+        margin-left: -4px;
+        transition: all 0.3s;
+        position: relative;
+        overflow: hidden;
+        z-index: 1;
+
+
+
+        @media screen and (min-width: 425px) {}
+    }
+
+    & .out--block--form--inp1 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp2 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp3 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp4 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 100px 14px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 239px;
+            padding: 12px 10px 13px 18px;
+        }
+    }
+
+    & .out--block--form--inp5 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 105px 14px 13px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 2px;
+            padding: 12px 5px 13px 13px;
+            width: 116px;
+        }
+    }
+
+    & .out--block--form--inp6 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 158px;
+            padding: 13px 5px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp7 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 96px 14px 22px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 4px;
+            width: 195px;
+            padding: 13px 6px 12px 22px;
+        }
+    }
+
+    & .out--block--form--inp8 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp8-bla {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 10px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        width: 278 px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--inp9 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 15px 100px 12px 18px;
+        margin-left: 20px;
+        margin-bottom: 6px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 28px;
+            width: 362px;
+            padding: 13px 10px 12px 18px;
+        }
+    }
+
+    & .out--block--form--svg3 {
+        display: none;
+        margin-left: -40px;
+
+        @media screen and (min-width: 425px) {}
+    }
+
+    & .out--block--form--subtext {
+        @include Font("Inter", normal, 400, 12px, 15px, rgba(130, 130, 130, 0.85));
+        padding-left: 20px;
+
+        @media screen and (min-width: 425px) {
+            padding-left: 28px;
+        }
+    }
+
+    & .out--block--form--text {
+        @include Font("Proxima Nova", normal, 400, 15px, 15px, #000000);
+        padding-left: 50px;
+        padding-right: 20px;
+        padding-top: 28px;
+        padding-bottom: 20px;
+
+        @media screen and (min-width: 425px) {
+            padding-left: 57px;
+            padding-right: 60px;
+        }
+
+        &::before {
+            content: "";
+            display: block;
+            border: 1px solid rgba(112, 112, 112, 0.4);
+            width: 16px;
+            height: 16px;
+            margin-left: -27px;
+            margin-right: 12px;
+            margin-bottom: -20px;
+            cursor: pointer;
+        }
+    }
+
+    & .out--block--form--svg1 {
+        margin-bottom: -3px;
+        margin-left: 45px;
+        margin-right: 1px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 58px;
+        }
+    }
+
+    & .out--block--form--subtext2 {
+        @include Font("Proxima Nova", normal, 400, 10px, 10px, #828282);
+
+        @media screen and (min-width: 425px) {}
+    }
+
+    & .out--block--form--svg2 {
+        margin-bottom: -3px;
+        margin-left: 22px;
+        margin-top: 24px;
+        cursor: pointer;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 30px;
+        }
+    }
+
+    & .out--block--form--subtext3 {
+        @include Font("Proxima Nova", normal, 400, 15px, 18px, #000000);
+        padding-left: 7px;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 14px;
+            padding-left: 0;
+        }
+    }
+
+    & .out--block-inp {
+        margin-top: 18px;
+
+        @media screen and (min-width: 425px) {}
+    }
+}
+
+.out--block--form-2-item1 {
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    max-width: 424px;
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+    }
+
+    & .out--block--form-2-img1 {
+        max-width: 62px;
+        width: 100%;
+        max-height: 39px;
+        height: 100%;
+        margin-top: 24px;
+        margin-bottom: 21px;
+        margin-left: 23px;
+    }
+
+    & .out--block--form-2-subtext1 {
+        @include Font("Proxima Nova", normal, 700, 15px, 18px, rgba(0, 0, 0, 0.85));
+        padding-left: 15px;
+
+        &::after {
+            content: "";
+            display: inline-block;
+            border: 1px solid rgba(0, 0, 0, 0.4);
+            width: 19px;
+            height: 19px;
+            margin-left: 130px;
+            margin-bottom: -5px;
+            cursor: pointer;
+
+            @media screen and (min-width: 425px) {
+                margin-left: 225px;
+            }
+        }
+    }
+}
+
+.out--block--form-2-item2 {
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    max-width: 424px;
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+        margin-top: 10px;
+    }
+
+    & .out--block--form-2-img2 {
+        max-width: 62px;
+        width: 100%;
+        max-height: 39px;
+        height: 100%;
+        margin-top: 24px;
+        margin-bottom: 21px;
+        margin-left: 23px;
+    }
+
+    & .out--block--form-2-subtext2 {
+        @include Font("Proxima Nova", normal, 700, 15px, 18px, rgba(0, 0, 0, 0.85));
+        padding-left: 15px;
+
+        &::after {
+            content: "";
+            display: inline-block;
+            border: 1px solid rgba(0, 0, 0, 0.4);
+            width: 19px;
+            height: 19px;
+            margin-left: 100px;
+            margin-bottom: -5px;
+            cursor: pointer;
+
+            @media screen and (min-width: 425px) {
+                margin-left: 194px;
+            }
+        }
+    }
+}
+
+.out--block--form-2-form- {
+    background-color: #fafafa;
+    max-width: 424px;
+    width: 100%;
+    margin: auto;
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+    }
+
+    & .out--block--form-2-inp1 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 10px 12px 19px;
+        margin-left: 23px;
+        width: 280px;
+        margin-top: 41px;
+
+        @media screen and (min-width: 425px) {
+            width: 381px;
+        }
+    }
+
+    & .out--block--form-2-inp2 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 10px 12px 18px;
+        margin-left: 23px;
+        width: 120px;
+        margin-top: 15px;
+
+        @media screen and (min-width: 425px) {
+            width: 158px;
+        }
+    }
+
+    & .out--block--form-2-inp3 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 10px 12px 23px;
+        margin-left: 10px;
+        width: 146px;
+        margin-top: 15px;
+
+        @media screen and (min-width: 425px) {
+            width: 208px;
+        }
+    }
+
+    & .out--block--form-2-inp4 {
+        border: 1px solid rgba(130, 130, 130, 0.4);
+        @include Font("Proxima Nova",
+            normal,
+            400,
+            15px,
+            18px,
+            rgba(130, 130, 130, 0.85));
+        padding: 13px 10px 12px 19px;
+        margin-left: 23px;
+        width: 280px;
+        margin-top: 15px;
+        margin-bottom: 32px;
+
+        @media screen and (min-width: 425px) {
+            width: 381px;
+        }
+    }
+}
+
+.out--block--form-2-item3 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 10px;
+
+    & .out--block--form-2-img3 {
+        max-width: 62px;
+        width: 100%;
+        max-height: 39px;
+        height: 100%;
+        margin-top: 24px;
+        margin-bottom: 21px;
+        margin-left: 23px;
+    }
+
+    & .out--block--form-2-subtext3 {
+        @include Font("Proxima Nova", normal, 700, 15px, 18px, rgba(0, 0, 0, 0.85));
+        padding-left: 15px;
+    }
+
+    & .out--block--form-2-svg {
+        margin-left: 67px;
+        cursor: pointer;
+
+        @media screen and (min-width: 425px) {
+            margin-left: 162px;
+        }
+    }
+}
+
+.out--block--form-3 {
+    max-width: 424px;
+    width: 100%;
+    margin: auto;
+    background-color: #fafafa;
+    margin-top: 25px;
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+        margin-top: 50px;
+    }
+
+    @media screen and (min-width: 1400px) {
+        margin-top: 0;
+    }
+
+    & .out--block--form-3-dfl {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        & .out--block--form-3-dfl-title1 {
+            @include Font("Inter", normal, 500, 17px, 21px, #000000);
+            padding-top: 21px;
+            padding-left: 30px;
+        }
+
+        & .out--block--form-3-dfl-title2 {
+            @include Font("Inter", normal, 500, 17px, 21px, #000000);
+            text-align: right;
+            padding-top: 21px;
+            padding-right: 46px;
+        }
+    }
+
+    & .out--block--form-3-brbt {
+        border: 1px solid rgba(224, 224, 224, 0.1);
+        margin-top: 17px;
+        margin-bottom: 24px;
+    }
+
+    & .out--block--form-3-item1 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        & .out--block--form-3-img {
+            max-width: 81px;
+            width: 100%;
+            max-height: 101px;
+            height: 100%;
+            margin-left: 30px;
+        }
+
+        & .out--block--form-3-item1-subtext1 {
+            display: block;
+            @include Font("Proxima Nova", normal, 500, 17px, 25px, #000000);
+            padding-left: 19px;
+        }
+
+        & .out--block--form-3-item1-subtext2 {
+            display: block;
+            padding-left: 19px;
+            @include Font("Proxima Nova", normal, 400, 17px, 25px, #a7a7a7);
+        }
+
+        & .out--block--form-3-item1-subtext3 {
+            display: block;
+            padding-left: 19px;
+            @include Font("Proxima Nova", normal, 700, 17px, 25px, #000000);
+        }
+
+        & .out--block--form-3-item1-subtext4 {
+            display: block;
+            padding-left: 19px;
+            @include Font("Proxima Nova", normal, 400, 17px, 25px, #828282);
+        }
+
+        & .out--block--form-3-item1-text {
+            @include Font("Proxima Nova", normal, 400, 17px, 21px, #000000);
+            text-align: right;
+            margin-left: auto;
+            padding-right: 20px;
+
+            @media screen and (min-width: 425px) {
+                padding-right: 39px;
+            }
+        }
+    }
+
+    & .out--block--form-3-brbt1 {
+        border: 2px solid #ffffff;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    & .out--block--form-3-brbt2 {
+        border: 2px solid #ffffff;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    & .out--block--form-3-item2 {
+        padding-top: 38px;
+
+        & .out--block--form-3-item2-subtext1 {
+            @include Font("Proxima Nova", normal, 400, 17px, 17px, #000000);
+            padding-left: 30px;
+            margin-top: 38px;
+            margin-bottom: 27px;
+        }
+
+        & .out--block--form-3-item2-subtext2 {
+            @include Font("Proxima Nova",
+                normal,
+                400,
+                15px,
+                15px,
+                rgba(130, 130, 130, 0.85));
+            padding-left: 9px;
+            margin-top: 38px;
+            margin-bottom: 27px;
+        }
+
+        & .out--block--form-3-item2-inp1 {
+            border: 1px solid rgba(130, 130, 130, 0.4);
+            @include Font("Proxima Nova",
+                normal,
+                400,
+                16px,
+                15px,
+                rgba(130, 130, 130, 0.85));
+            padding: 12px 10px 12px 18px;
+            margin-left: 30px;
+            margin-top: 27px;
+            margin-bottom: 43px;
+            width: 140px;
+
+            @media screen and (min-width: 425px) {
+                width: 182px;
+            }
+        }
+
+        & .out--block--form-3-item2-inp2 {
+            background-color: #000000;
+            @include Font("Proxima Nova",
+                normal,
+                700,
+                20px,
+                20px,
+                rgba(255, 255, 255, 0.85));
+            padding: 12px 10px 14px 8px;
+            margin-left: 6px;
+            margin-top: 27px;
+            margin-bottom: 43px;
+            width: 120px;
+            transition: all 0.3s;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+
+            @media screen and (min-width: 425px) {
+                width: 171px;
+            }
+        }
+    }
+
+    & .out--block--form-3-item3 {
+        & .out--block--form-3-item3-subtext1 {
+            @include Font("Proxima Nova", normal, 400, 17px, 17px, #000000);
+            padding-left: 30px;
+            padding-right: 140px;
+
+            @media screen and (min-width: 425px) {
+                padding-right: 221px;
+            }
+        }
+
+        & .out--block--form-3-item3-subtext2 {
+            @include Font("Proxima Nova", normal, 400, 17px, 21px, #000000);
+            text-align: right;
+        }
+
+        & .out--block--form-3-item3-subtext3 {
+            @include Font("Proxima Nova",
+                normal,
+                400,
+                17px,
+                17px,
+                rgba(130, 130, 130, 0.85));
+            padding-left: 30px;
+            padding-right: 140px;
+            padding-top: 10px;
+
+            @media screen and (min-width: 425px) {
+                padding-right: 222px;
+            }
+        }
+
+        & .out--block--form-3-item3-subtext4 {
+            @include Font("Proxima Nova",
+                normal,
+                400,
+                17px,
+                21px,
+                rgba(130, 130, 130, 0.85));
+            text-align: right;
+            padding-top: 10px;
+        }
+
+        & .out--block--form-3-item3-text {
+            @include Font("Proxima Nova",
+                normal,
+                400,
+                17px,
+                17px,
+                rgba(130, 130, 130, 0.85));
+            padding-top: 12px;
+            padding-left: 30px;
+            padding-bottom: 29px;
+        }
+    }
+}
+
+.out--block--form-3-item3-spnpd {
+    padding-top: 10px;
+}
+
+.out--block--form-4 {
+    max-width: 424px;
+    width: 100%;
+    margin: auto;
+    background-color: #fafafa;
+    margin-top: 21px;
+
+    @media screen and (min-width: 991px) {
+        margin: 0;
+        margin-top: 21px;
+    }
+
+    & .out--block--form-4-inp {
+        background-color: #000000;
+        @include Font("Proxima Nova", normal, 700, 20px, 24px, #ffffff);
+        padding-top: 12px;
+        padding-bottom: 9px;
+        margin-left: 25px;
+        margin-top: 20px;
+        margin-bottom: 14px;
+        width: 280px;
+        cursor: pointer;
+        transition: all 0.3s;
+        position: relative;
+        overflow: hidden;
+        z-index: 1;
+
+        @media screen and (min-width: 425px) {
+            width: 362px;
+        }
+    }
+
+    & .out--block--form-4-text {
+        @include Font("Inter", normal, 400, 15px, 18px, rgba(130, 130, 130, 0.85));
+        padding-bottom: 25px;
+        padding-left: 54px;
+
+        &::before {
+            content: "";
+            width: 16px;
+            height: 16px;
+            border: 1px solid #707070;
+            display: block;
+            margin-bottom: -19px;
+            margin-left: -27px;
+            cursor: pointer;
+        }
+    }
+
+    & .out--block--form-4-item {
+        & .out--block--form-4-subtext1 {
+            @include Font("Proxima Nova", normal, 400, 17px, 17px, #000000);
+            padding-left: 26px;
+            padding-right: 140px;
+
+            @media screen and (min-width: 425px) {
+                padding-right: 235px;
+            }
+        }
+
+        & .out--block--form-4-subtext2 {
+            @include Font("Inter", normal, 500, 17px, 21px, #000000);
+            text-align: right;
+        }
+
+        & .out--block--form-4-item--spnpd {
+            padding-top: 5px;
+            padding-bottom: 17px;
+
+            & .out--block--form-4-subtext3 {
+                @include Font("Inter",
+                    normal,
+                    400,
+                    15px,
+                    18px,
+                    rgba(130, 130, 130, 0.85));
+                padding-left: 26px;
+                padding-right: 170px;
+
+                @media screen and (min-width: 425px) {
+                    padding-right: 264px;
+                }
+            }
+
+            & .out--block--form-4-subtext4 {
+                @include Font("Inter",
+                    normal,
+                    400,
+                    15px,
+                    18px,
+                    rgba(130, 130, 130, 0.85));
+                text-align: right;
+            }
+        }
+    }
+}
+
+.out--block-3and4 {
+    padding-bottom: 50px;
+
+    @media screen and (min-width: 991px) {
+        padding-bottom: 0;
+    }
+
+    @media screen and (min-width: 1400px) {
+        top: 0;
+        left: 900px;
+    }
+}
+
+.out--block--cont {
+    @media screen and (min-width: 991px) {
+        position: relative;
+    }
+}
+
+.out--block--form-2 {
+    @media screen and (min-width: 991px) {
+        top: 0px;
+        left: 494px;
+    }
+
+    @media screen and (min-width: 1400px) {
+        left: 446px;
+    }
+}
+
+.out {
+    max-width: 1302px;
+    margin: auto;
+}
+
+.display-flex{
+    @media screen and (max-width: 1400px) {
+        flex-direction: column;
+        align-items: center;
     }
 }
