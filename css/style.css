@@ -75,7 +75,7 @@ body {
   width: 100%;
   top: 90%;
   left: 50%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
 }
 @media screen and (min-width: 576px) {
   .bg-chair .row {
@@ -91,7 +91,7 @@ body {
   .bg-chair .row {
     position: unset !important;
     max-width: 388px;
-    transform-: translateX(0);
+    transform: translateX(0);
     margin: auto 0;
     margin-left: auto;
     background: rgba(0, 0, 0, 0.36);
@@ -147,7 +147,7 @@ body {
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #040404;
   padding: 14px 40px;
   border: 0;
@@ -279,7 +279,7 @@ body {
   border: 1px solid #FFFFFF;
   width: 535px;
   left: 52%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   top: 85%;
   padding: 30px 0;
   height: 114px;
@@ -318,7 +318,7 @@ body {
   border: 1px solid #FFFFFF;
   width: 299px;
   left: 52%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   top: 85%;
   padding: 30px 0;
   max-height: 114px;
@@ -370,7 +370,7 @@ body {
   border: 1px solid #FFFFFF;
   width: 415px;
   left: 56%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   top: 66%;
   padding: 30px 0;
   max-height: 114px;
@@ -415,7 +415,7 @@ body {
   border: 1px solid #FFFFFF;
   width: 415px;
   left: 56%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   top: 66%;
   padding: 30px 0;
   max-height: 114px;
@@ -492,7 +492,7 @@ body {
   background-size: 12px;
   background-position: center;
   background-color: #FFFFFF;
-  transform-: translateY(-50%);
+  transform: translateY(-50%);
   top: 45%;
 }
 @media screen and (min-width: 992px) {
@@ -513,7 +513,7 @@ body {
 
 .swiper-button-prev {
   left: 0;
-  transform-: rotateZ(180deg) translateY(50%);
+  transform: rotateZ(180deg) translateY(50%);
 }
 
 .bg-room {
@@ -553,7 +553,7 @@ body {
   position: absolute;
   width: 100%;
   left: 50%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   margin-top: -246px;
 }
 @media screen and (min-width: 576px) {
@@ -571,7 +571,7 @@ body {
   .bg-room .row {
     position: unset !important;
     max-width: 388px;
-    transform-: translateX(0);
+    transform: translateX(0);
     margin: auto 0;
     background-color: #F7F7F7;
   }
@@ -621,7 +621,7 @@ body {
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #FFFFFF;
   background-color: #111010;
   padding: 14px 40px;
@@ -705,7 +705,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 19px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #FFFFFF;
   padding: 16px 44px;
   border: 0;
@@ -722,7 +722,7 @@ body {
   position: absolute;
   top: 100%;
   left: 90%;
-  transform-: translate(-90%, -100%);
+  transform: translate(-90%, -100%);
 }
 .cret .play-small h3 {
   margin-bottom: 0;
@@ -770,7 +770,7 @@ body {
   background-size: 12px;
   background-position: center;
   background-color: #FFFFFF;
-  transform-: translateY(0);
+  transform: translateY(0);
   top: 50%;
 }
 @media screen and (min-width: 992px) {
@@ -786,7 +786,7 @@ body {
 }
 .cret .swiper-button-prev {
   left: 0;
-  transform-: rotateZ(180deg) translateY(0);
+  transform: rotateZ(180deg) translateY(0);
 }
 
 .project {
@@ -848,7 +848,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 16px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #FFFFFF;
   padding: 14px 40px;
   border: 0;
@@ -953,7 +953,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 19px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #FFFFFF;
   padding: 18px 34px;
   max-height: 52px;
@@ -994,8 +994,8 @@ body {
   border-width: 0 1.5px 1.5px 0;
   display: inline-block;
   padding: 3px;
-  transform-: rotate(45deg);
-  -webkit-transform-: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
   margin-left: 3px;
   margin-bottom: 2px;
 }
@@ -1094,7 +1094,7 @@ body {
   position: absolute;
   width: 100%;
   left: 50%;
-  transform-: translateX(-50%);
+  transform: translateX(-50%);
   margin-top: -236px;
 }
 @media screen and (min-width: 576px) {
@@ -1111,7 +1111,7 @@ body {
 @media screen and (min-width: 992px) {
   .bg-show .container .row {
     position: unset !important;
-    transform-: translateX(0);
+    transform: translateX(0);
     max-width: 692px;
     margin: auto 0;
     background-color: #F7F7F7;
@@ -1159,7 +1159,7 @@ body {
   font-weight: 700;
   font-size: 15px;
   line-height: 15px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   color: #FFFFFF;
   background-color: #111010;
   padding: 14px 40px;
@@ -1246,7 +1246,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 22px;
-  text-transform-: uppercase;
+  text-transform: uppercase;
   margin-top: 227px;
   color: #E4E4E4;
 }
@@ -1415,7 +1415,7 @@ body {
   content: "";
   border-bottom: 1.5px solid white;
   border-right: 1.5px solid white;
-  transform-: rotateZ(315deg);
+  transform: rotateZ(315deg);
   display: inline-block;
   width: 8px;
   height: 8px;
@@ -2692,7 +2692,7 @@ body {
   display: inline-block;
   border-bottom: 1.5px solid #000000;
   border-right: 1.5px solid #000000;
-  transform-: rotateZ(45deg);
+  transform: rotateZ(45deg);
   transition: all 0.3s;
   margin-top: -3px;
   margin-left: 23px;
@@ -3075,7 +3075,7 @@ body {
   }
 }
 .dropdown-shop #dropdown-shop:checked ~ label b::after {
-  transform-: rotateZ(-135deg);
+  transform: rotateZ(-135deg);
   margin-bottom: -4px;
 }
 .dropdown-shop-list {
@@ -3720,7 +3720,7 @@ body {
   display: inline-block;
   border-bottom: 1.5px solid #000000;
   border-right: 1.5px solid #000000;
-  transform-: rotateZ(45deg);
+  transform: rotateZ(45deg);
   transition: all 0.3s;
   margin-top: -3px;
   margin-left: 23px;
@@ -4103,7 +4103,7 @@ body {
   }
 }
 .dropdown-shop #dropdown-shop:checked ~ label b::after {
-  transform-: rotateZ(-135deg);
+  transform: rotateZ(-135deg);
   margin-bottom: -4px;
 }
 .dropdown-shop-list {
