@@ -1210,4 +1210,7 @@ body {
   letter-spacing: 0.183333px;
   color: #FFFFFF;
   opacity: 0.5;
+}
+.footer .container .row ul li {
+  margin: 8px 0;
 }/*# sourceMappingURL=style.css.map */
