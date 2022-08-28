@@ -9,6 +9,12 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+.w-fc {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
 .mxw-575 {
   max-width: 575px !important;
 }
@@ -982,6 +988,17 @@ body {
   margin-top: 30px;
   opacity: 0.6;
 }
+.ds .p-after::after {
+  content: "";
+  border: solid #808080;
+  border-width: 0 1.5px 1.5px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  margin-left: 3px;
+  margin-bottom: 2px;
+}
 .ds .block-ds {
   background-color: #F6F6F6;
   max-width: 333px;
@@ -1213,4 +1230,127 @@ body {
 }
 .footer .container .row ul li {
   margin: 8px 0;
+}
+
+.bg-kitchen {
+  background-image: url(../img/bg-filtr.png), url(../img/kitchen-catalog.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 526px;
+  margin-top: 33px;
+  background-position: center;
+}
+.bg-kitchen h1 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 22px;
+  text-transform: uppercase;
+  margin-top: 227px;
+  color: #E4E4E4;
+}
+@media screen and (min-width: 992px) {
+  .bg-kitchen h1 {
+    font-size: 72px;
+    line-height: 72px;
+    margin-bottom: 36px;
+    padding: 0;
+  }
+}
+.bg-kitchen p {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  opacity: 0.6;
+  color: #E4E4E4;
+  max-width: 697px;
+}
+@media screen and (min-width: 992px) {
+  .bg-kitchen p {
+    font-size: 20px;
+    line-height: 28px;
+    padding: 0;
+  }
+}
+
+.cote {
+  margin-top: 100px;
+}
+@media screen and (max-width: 1600px) {
+  .cote .row {
+    justify-content: center !important;
+  }
+}
+.cote .row .block {
+  max-width: 329px;
+  padding: 48px 46px 102px 27px;
+  background-color: #252525;
+  max-height: 401px;
+}
+.cote .row .block span {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-bottom: 14px;
+}
+.cote .row .block h2 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+  margin-bottom: 24px;
+}
+.cote .row .block p {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #BCBCBC;
+}
+.cote .row .block-1 {
+  max-width: 329px;
+  max-height: 401px;
+  padding: 274px 80px 20px 28px;
+  background-image: url(../img/catalog-1.png);
+}
+.cote .row .block-1 span {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-bottom: 6px;
+}
+.cote .row .block-1 h2 {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+  margin-bottom: 6px;
+}
+.cote .row .block-1 p {
+  font-family: "Proxima Nova Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #BCBCBC;
+}
+.cote .row .block-1:nth-child(3) {
+  background-image: url(../img/catalog-2.png);
+}
+.cote .row .block-1:nth-child(4) {
+  background-image: url(../img/catalog-3.png);
 }/*# sourceMappingURL=style.css.map */

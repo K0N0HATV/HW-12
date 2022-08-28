@@ -12,6 +12,10 @@ body {
     font-style: normal;
 }
 
+.w-fc {
+    width: fit-content;
+}
+
 .mxw-575 {
     max-width: 575px !important;
 }
@@ -1037,6 +1041,20 @@ body {
         }
     }
 
+    .p-after {
+        &::after {
+            content: "";
+            border: solid #808080;
+            border-width: 0 1.5px 1.5px 0;
+            display: inline-block;
+            padding: 3px;
+            transform: rotate(45deg);
+            -webkit-transform: rotate(45deg);
+            margin-left: 3px;
+            margin-bottom: 2px;
+        }
+    }
+
     .block-ds {
         background-color: #F6F6F6;
         max-width: 333px;
@@ -1237,6 +1255,7 @@ body {
                 margin: auto;
                 padding-top: 28px;
                 margin-bottom: 38px;
+
                 @media screen and (min-width: 992px) {
                     max-width: 162px;
                     height: fit-content;
@@ -1265,9 +1284,144 @@ body {
                 color: #FFFFFF;
                 opacity: 0.5;
             }
-            ul{
-                li{
+
+            ul {
+                li {
                     margin: 8px 0;
+                }
+            }
+        }
+    }
+}
+
+.bg-kitchen {
+    background-image: url(../img/bg-filtr.png), url(../img/kitchen-catalog.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 526px;
+    margin-top: 33px;
+    background-position: center;
+
+    h1 {
+        font-family: 'Proxima Nova Bold';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 22px;
+        text-transform: uppercase;
+        margin-top: 227px;
+        color: #E4E4E4;
+
+        @media screen and (min-width:992px) {
+            font-size: 72px;
+            line-height: 72px;
+            margin-bottom: 36px;
+            padding: 0;
+        }
+    }
+
+    p {
+        font-family: 'Proxima Nova Bold';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        opacity: .6;
+        color: #E4E4E4;
+        max-width: 697px;
+
+        @media screen and (min-width: 992px) {
+            font-size: 20px;
+            line-height: 28px;
+            padding: 0;
+        }
+    }
+}
+
+.cote {
+    margin-top: 100px;
+
+    .row {
+        @media screen and (max-width: 1600px) {
+            justify-content: center !important;
+        }
+
+        .block {
+            max-width: 329px;
+            padding: 48px 46px 102px 27px;
+            background-color: #252525;
+            max-height: 401px;
+
+            span {
+                font-family: 'Proxima Nova Bold';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 28px;
+                color: #FFFFFF;
+                margin-bottom: 14px;
+            }
+
+            h2 {
+                font-family: 'Proxima Nova Bold';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 25px;
+                line-height: 25px;
+                color: #FFFFFF;
+                margin-bottom: 24px;
+            }
+
+            p {
+                font-family: 'Proxima Nova Bold';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 28px;
+                color: #BCBCBC;
+            }
+
+            &-1 {
+                max-width: 329px;
+                max-height: 401px;
+                padding: 274px 80px 20px 28px;
+                background-image: url(../img/catalog-1.png);
+
+                span {
+                    font-family: 'Proxima Nova Bold';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 15px;
+                    line-height: 28px;
+                    color: #FFFFFF;
+                    margin-bottom: 6px;
+                }
+
+                h2 {
+                    font-family: 'Proxima Nova Bold';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 25px;
+                    line-height: 25px;
+                    color: #FFFFFF;
+                    margin-bottom: 6px;
+                }
+
+                p {
+                    font-family: 'Proxima Nova Bold';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 18px;
+                    line-height: 28px;
+                    color: #BCBCBC;
+                }
+
+                &:nth-child(3) {
+                    background-image: url(../img/catalog-2.png);
+                }
+
+                &:nth-child(4) {
+                    background-image: url(../img/catalog-3.png);
                 }
             }
         }
